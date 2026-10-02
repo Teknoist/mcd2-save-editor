@@ -1,0 +1,1766 @@
+﻿[
+  {
+    "Name": "Protection",
+    "Tag": "SW.EffectTemplate.Protection.I",
+    "Effect": "SW.Effect.Protection",
+    "Tier": "I",
+    "Value": -0.1,
+    "Icon": "protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png"
+  },
+  {
+    "Name": "Protection",
+    "Tag": "SW.EffectTemplate.Protection.II",
+    "Effect": "SW.Effect.Protection",
+    "Tier": "II",
+    "Value": -0.15,
+    "Icon": "protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png"
+  },
+  {
+    "Name": "Protection",
+    "Tag": "SW.EffectTemplate.Protection.III",
+    "Effect": "SW.Effect.Protection",
+    "Tier": "III",
+    "Value": -0.2,
+    "Icon": "protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png"
+  },
+  {
+    "Name": "Sharpness",
+    "Tag": "SW.EffectTemplate.Sharpness.I",
+    "Effect": "SW.Effect.Sharpness",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "sharpness.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png"
+  },
+  {
+    "Name": "Sharpness",
+    "Tag": "SW.EffectTemplate.Sharpness.II",
+    "Effect": "SW.Effect.Sharpness",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "sharpness.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png"
+  },
+  {
+    "Name": "Sharpness",
+    "Tag": "SW.EffectTemplate.Sharpness.III",
+    "Effect": "SW.Effect.Sharpness",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "sharpness.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png"
+  },
+  {
+    "Name": "Swiftness",
+    "Tag": "SW.EffectTemplate.RapidStrike.I",
+    "Effect": "SW.Effect.RapidStrike",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "swiftness.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png"
+  },
+  {
+    "Name": "Swiftness",
+    "Tag": "SW.EffectTemplate.RapidStrike.II",
+    "Effect": "SW.Effect.RapidStrike",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "swiftness.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png"
+  },
+  {
+    "Name": "Swiftness",
+    "Tag": "SW.EffectTemplate.RapidStrike.III",
+    "Effect": "SW.Effect.RapidStrike",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "swiftness.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png"
+  },
+  {
+    "Name": "Speed",
+    "Tag": "SW.EffectTemplate.SpeedBoost.I",
+    "Effect": "SW.Effect.SpeedBoost",
+    "Tier": "I",
+    "Value": 0.05,
+    "Icon": "speed.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png"
+  },
+  {
+    "Name": "Speed",
+    "Tag": "SW.EffectTemplate.SpeedBoost.II",
+    "Effect": "SW.Effect.SpeedBoost",
+    "Tier": "II",
+    "Value": 0.1,
+    "Icon": "speed.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png"
+  },
+  {
+    "Name": "Speed",
+    "Tag": "SW.EffectTemplate.SpeedBoost.III",
+    "Effect": "SW.Effect.SpeedBoost",
+    "Tier": "III",
+    "Value": 0.15,
+    "Icon": "speed.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png"
+  },
+  {
+    "Name": "Critical Hit",
+    "Tag": "SW.EffectTemplate.CriticalHit.I",
+    "Effect": "SW.Effect.CriticalHit",
+    "Tier": "I",
+    "Value": 0.05,
+    "Icon": "critical-hit.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png"
+  },
+  {
+    "Name": "Critical Hit",
+    "Tag": "SW.EffectTemplate.CriticalHit.II",
+    "Effect": "SW.Effect.CriticalHit",
+    "Tier": "II",
+    "Value": 0.1,
+    "Icon": "critical-hit.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png"
+  },
+  {
+    "Name": "Critical Hit",
+    "Tag": "SW.EffectTemplate.CriticalHit.III",
+    "Effect": "SW.Effect.CriticalHit",
+    "Tier": "III",
+    "Value": 0.15,
+    "Icon": "critical-hit.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png"
+  },
+  {
+    "Name": "Cooldown",
+    "Tag": "SW.EffectTemplate.Cooldown.I",
+    "Effect": "SW.Effect.Cooldown",
+    "Tier": "I",
+    "Value": -0.1,
+    "Icon": "cooldown.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png"
+  },
+  {
+    "Name": "Cooldown",
+    "Tag": "SW.EffectTemplate.Cooldown.II",
+    "Effect": "SW.Effect.Cooldown",
+    "Tier": "II",
+    "Value": -0.15,
+    "Icon": "cooldown.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png"
+  },
+  {
+    "Name": "Cooldown",
+    "Tag": "SW.EffectTemplate.Cooldown.III",
+    "Effect": "SW.Effect.Cooldown",
+    "Tier": "III",
+    "Value": -0.2,
+    "Icon": "cooldown.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png"
+  },
+  {
+    "Name": "Impact",
+    "Tag": "SW.EffectTemplate.Power.I",
+    "Effect": "SW.Effect.Power",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "impact.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png"
+  },
+  {
+    "Name": "Impact",
+    "Tag": "SW.EffectTemplate.Power.II",
+    "Effect": "SW.Effect.Power",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "impact.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png"
+  },
+  {
+    "Name": "Impact",
+    "Tag": "SW.EffectTemplate.Power.III",
+    "Effect": "SW.Effect.Power",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "impact.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png"
+  },
+  {
+    "Name": "Recovery",
+    "Tag": "SW.EffectTemplate.Constitution.I",
+    "Effect": "SW.Effect.Constitution",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "recovery.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+  },
+  {
+    "Name": "Recovery",
+    "Tag": "SW.EffectTemplate.Constitution.II",
+    "Effect": "SW.Effect.Constitution",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "recovery.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+  },
+  {
+    "Name": "Recovery",
+    "Tag": "SW.EffectTemplate.Constitution.III",
+    "Effect": "SW.Effect.Constitution",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "recovery.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+  },
+  {
+    "Name": "Recovery",
+    "Tag": "SW.EffectTemplate.Constitution.Unique",
+    "Effect": "SW.Effect.Constitution",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "recovery.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+  },
+  {
+    "Name": "Reload",
+    "Tag": "SW.EffectTemplate.Hairtrigger.I",
+    "Effect": "SW.Effect.Hairtrigger",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "reload.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png"
+  },
+  {
+    "Name": "Reload",
+    "Tag": "SW.EffectTemplate.Hairtrigger.II",
+    "Effect": "SW.Effect.Hairtrigger",
+    "Tier": "II",
+    "Value": 0.3,
+    "Icon": "reload.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png"
+  },
+  {
+    "Name": "Reload",
+    "Tag": "SW.EffectTemplate.Hairtrigger.III",
+    "Effect": "SW.Effect.Hairtrigger",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "reload.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png"
+  },
+  {
+    "Name": "Evasion",
+    "Tag": "SW.EffectTemplate.Sidestep.I",
+    "Effect": "SW.Effect.Sidestep",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "evasion.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+  },
+  {
+    "Name": "Evasion",
+    "Tag": "SW.EffectTemplate.Sidestep.II",
+    "Effect": "SW.Effect.Sidestep",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "evasion.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+  },
+  {
+    "Name": "Evasion",
+    "Tag": "SW.EffectTemplate.Sidestep.III",
+    "Effect": "SW.Effect.Sidestep",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "evasion.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+  },
+  {
+    "Name": "Evasion",
+    "Tag": "SW.EffectTemplate.Sidestep.Unique",
+    "Effect": "SW.Effect.Sidestep",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "evasion.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+  },
+  {
+    "Name": "Regeneration",
+    "Tag": "SW.EffectTemplate.Regeneration.I",
+    "Effect": "SW.Effect.Regeneration",
+    "Tier": "I",
+    "Value": 0.05,
+    "Icon": "regeneration.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png"
+  },
+  {
+    "Name": "Regeneration",
+    "Tag": "SW.EffectTemplate.Regeneration.II",
+    "Effect": "SW.Effect.Regeneration",
+    "Tier": "II",
+    "Value": 0.075,
+    "Icon": "regeneration.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png"
+  },
+  {
+    "Name": "Regeneration",
+    "Tag": "SW.EffectTemplate.Regeneration.III",
+    "Effect": "SW.Effect.Regeneration",
+    "Tier": "III",
+    "Value": 0.1,
+    "Icon": "regeneration.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png"
+  },
+  {
+    "Name": "Finesse",
+    "Tag": "SW.EffectTemplate.Finesse.I",
+    "Effect": "SW.Effect.Finesse",
+    "Tier": "I",
+    "Value": 0.15,
+    "Icon": "finesse.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png"
+  },
+  {
+    "Name": "Finesse",
+    "Tag": "SW.EffectTemplate.Finesse.II",
+    "Effect": "SW.Effect.Finesse",
+    "Tier": "II",
+    "Value": 0.25,
+    "Icon": "finesse.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png"
+  },
+  {
+    "Name": "Finesse",
+    "Tag": "SW.EffectTemplate.Finesse.III",
+    "Effect": "SW.Effect.Finesse",
+    "Tier": "III",
+    "Value": 0.35,
+    "Icon": "finesse.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png"
+  },
+  {
+    "Name": "Pyromancer",
+    "Tag": "SW.EffectTemplate.FireFocus.I",
+    "Effect": "SW.Effect.FireFocus",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "pyromancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png"
+  },
+  {
+    "Name": "Pyromancer",
+    "Tag": "SW.EffectTemplate.FireFocus.II",
+    "Effect": "SW.Effect.FireFocus",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "pyromancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png"
+  },
+  {
+    "Name": "Pyromancer",
+    "Tag": "SW.EffectTemplate.FireFocus.III",
+    "Effect": "SW.Effect.FireFocus",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "pyromancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png"
+  },
+  {
+    "Name": "Projectile Protection",
+    "Tag": "SW.EffectTemplate.ProjectileProtection.I",
+    "Effect": "SW.Effect.ProjectileProtection",
+    "Tier": "I",
+    "Value": -0.1,
+    "Icon": "projectile-protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png"
+  },
+  {
+    "Name": "Projectile Protection",
+    "Tag": "SW.EffectTemplate.ProjectileProtection.II",
+    "Effect": "SW.Effect.ProjectileProtection",
+    "Tier": "II",
+    "Value": -0.15,
+    "Icon": "projectile-protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png"
+  },
+  {
+    "Name": "Projectile Protection",
+    "Tag": "SW.EffectTemplate.ProjectileProtection.III",
+    "Effect": "SW.Effect.ProjectileProtection",
+    "Tier": "III",
+    "Value": -0.2,
+    "Icon": "projectile-protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png"
+  },
+  {
+    "Name": "Sorcerer",
+    "Tag": "SW.EffectTemplate.Vestige.I",
+    "Effect": "SW.Effect.Vestige",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "sorcerer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png"
+  },
+  {
+    "Name": "Sorcerer",
+    "Tag": "SW.EffectTemplate.Vestige.II",
+    "Effect": "SW.Effect.Vestige",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "sorcerer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png"
+  },
+  {
+    "Name": "Sorcerer",
+    "Tag": "SW.EffectTemplate.Vestige.III",
+    "Effect": "SW.Effect.Vestige",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "sorcerer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png"
+  },
+  {
+    "Name": "Electromancer",
+    "Tag": "SW.EffectTemplate.LightningFocus.I",
+    "Effect": "SW.Effect.LightningFocus",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "electromancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png"
+  },
+  {
+    "Name": "Electromancer",
+    "Tag": "SW.EffectTemplate.LightningFocus.II",
+    "Effect": "SW.Effect.LightningFocus",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "electromancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png"
+  },
+  {
+    "Name": "Electromancer",
+    "Tag": "SW.EffectTemplate.LightningFocus.III",
+    "Effect": "SW.Effect.LightningFocus",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "electromancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png"
+  },
+  {
+    "Name": "Soulmancer",
+    "Tag": "SW.EffectTemplate.SoulFocus.I",
+    "Effect": "SW.Effect.SoulFocus",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "soulmancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png"
+  },
+  {
+    "Name": "Soulmancer",
+    "Tag": "SW.EffectTemplate.SoulFocus.II",
+    "Effect": "SW.Effect.SoulFocus",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "soulmancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png"
+  },
+  {
+    "Name": "Soulmancer",
+    "Tag": "SW.EffectTemplate.SoulFocus.III",
+    "Effect": "SW.Effect.SoulFocus",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "soulmancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png"
+  },
+  {
+    "Name": "Venomancer",
+    "Tag": "SW.EffectTemplate.PoisonFocus.I",
+    "Effect": "SW.Effect.PoisonFocus",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "venomancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png"
+  },
+  {
+    "Name": "Venomancer",
+    "Tag": "SW.EffectTemplate.PoisonFocus.II",
+    "Effect": "SW.Effect.PoisonFocus",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "venomancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png"
+  },
+  {
+    "Name": "Venomancer",
+    "Tag": "SW.EffectTemplate.PoisonFocus.III",
+    "Effect": "SW.Effect.PoisonFocus",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "venomancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png"
+  },
+  {
+    "Name": "Critical Edge",
+    "Tag": "SW.EffectTemplate.CriticalEdge.I",
+    "Effect": "SW.Effect.CriticalEdge",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "critical-edge.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+  },
+  {
+    "Name": "Critical Edge",
+    "Tag": "SW.EffectTemplate.CriticalEdge.II",
+    "Effect": "SW.Effect.CriticalEdge",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "critical-edge.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+  },
+  {
+    "Name": "Critical Edge",
+    "Tag": "SW.EffectTemplate.CriticalEdge.III",
+    "Effect": "SW.Effect.CriticalEdge",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "critical-edge.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+  },
+  {
+    "Name": "Critical Edge",
+    "Tag": "SW.EffectTemplate.CriticalEdge.Unique",
+    "Effect": "SW.Effect.CriticalEdge",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "critical-edge.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+  },
+  {
+    "Name": "Precision",
+    "Tag": "SW.EffectTemplate.Precision.I",
+    "Effect": "SW.Effect.Precision",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "precision.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png"
+  },
+  {
+    "Name": "Precision",
+    "Tag": "SW.EffectTemplate.Precision.II",
+    "Effect": "SW.Effect.Precision",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "precision.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png"
+  },
+  {
+    "Name": "Precision",
+    "Tag": "SW.EffectTemplate.Precision.III",
+    "Effect": "SW.Effect.Precision",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "precision.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png"
+  },
+  {
+    "Name": "Strength",
+    "Tag": "SW.EffectTemplate.MasterStrike.I",
+    "Effect": "SW.Effect.MasterStrike",
+    "Tier": "I",
+    "Value": 0.15,
+    "Icon": "strength.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png"
+  },
+  {
+    "Name": "Strength",
+    "Tag": "SW.EffectTemplate.MasterStrike.II",
+    "Effect": "SW.Effect.MasterStrike",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "strength.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png"
+  },
+  {
+    "Name": "Strength",
+    "Tag": "SW.EffectTemplate.MasterStrike.III",
+    "Effect": "SW.Effect.MasterStrike",
+    "Tier": "III",
+    "Value": 0.25,
+    "Icon": "strength.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png"
+  },
+  {
+    "Name": "Aim",
+    "Tag": "SW.EffectTemplate.EagleEye.I",
+    "Effect": "SW.Effect.EagleEye",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "aim.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png"
+  },
+  {
+    "Name": "Aim",
+    "Tag": "SW.EffectTemplate.EagleEye.II",
+    "Effect": "SW.Effect.EagleEye",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "aim.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png"
+  },
+  {
+    "Name": "Aim",
+    "Tag": "SW.EffectTemplate.EagleEye.III",
+    "Effect": "SW.Effect.EagleEye",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "aim.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png"
+  },
+  {
+    "Name": "Marksman",
+    "Tag": "SW.EffectTemplate.MasterMarksman.I",
+    "Effect": "SW.Effect.MasterMarksman",
+    "Tier": "I",
+    "Value": 0.15,
+    "Icon": "marksman.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png"
+  },
+  {
+    "Name": "Marksman",
+    "Tag": "SW.EffectTemplate.MasterMarksman.II",
+    "Effect": "SW.Effect.MasterMarksman",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "marksman.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png"
+  },
+  {
+    "Name": "Marksman",
+    "Tag": "SW.EffectTemplate.MasterMarksman.III",
+    "Effect": "SW.Effect.MasterMarksman",
+    "Tier": "III",
+    "Value": 0.25,
+    "Icon": "marksman.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png"
+  },
+  {
+    "Name": "Momentum",
+    "Tag": "SW.EffectTemplate.Reeling.I",
+    "Effect": "SW.Effect.Reeling",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "momentum.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png"
+  },
+  {
+    "Name": "Momentum",
+    "Tag": "SW.EffectTemplate.Reeling.II",
+    "Effect": "SW.Effect.Reeling",
+    "Tier": "II",
+    "Value": 0.3,
+    "Icon": "momentum.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png"
+  },
+  {
+    "Name": "Momentum",
+    "Tag": "SW.EffectTemplate.Reeling.III",
+    "Effect": "SW.Effect.Reeling",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "momentum.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png"
+  },
+  {
+    "Name": "Fletcher",
+    "Tag": "SW.EffectTemplate.Reconstruction.I",
+    "Effect": "SW.Effect.Reconstruction",
+    "Tier": "I",
+    "Value": -0.15,
+    "Icon": "fletcher.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+  },
+  {
+    "Name": "Fletcher",
+    "Tag": "SW.EffectTemplate.Reconstruction.II",
+    "Effect": "SW.Effect.Reconstruction",
+    "Tier": "II",
+    "Value": -0.2,
+    "Icon": "fletcher.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+  },
+  {
+    "Name": "Fletcher",
+    "Tag": "SW.EffectTemplate.Reconstruction.III",
+    "Effect": "SW.Effect.Reconstruction",
+    "Tier": "III",
+    "Value": -0.25,
+    "Icon": "fletcher.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+  },
+  {
+    "Name": "Fletcher",
+    "Tag": "SW.EffectTemplate.Reconstruction.Unique",
+    "Effect": "SW.Effect.Reconstruction",
+    "Tier": "III",
+    "Value": -0.35,
+    "Icon": "fletcher.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+  },
+  {
+    "Name": "Persistence",
+    "Tag": "SW.EffectTemplate.Desperation.I",
+    "Effect": "SW.Effect.Desperation",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "persistence.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png"
+  },
+  {
+    "Name": "Persistence",
+    "Tag": "SW.EffectTemplate.Desperation.II",
+    "Effect": "SW.Effect.Desperation",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "persistence.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png"
+  },
+  {
+    "Name": "Persistence",
+    "Tag": "SW.EffectTemplate.Desperation.III",
+    "Effect": "SW.Effect.Desperation",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "persistence.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png"
+  },
+  {
+    "Name": "Sharpshooter",
+    "Tag": "SW.EffectTemplate.Supercharge.I",
+    "Effect": "SW.Effect.Supercharge",
+    "Tier": "I",
+    "Value": 0.3,
+    "Icon": "sharpshooter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png"
+  },
+  {
+    "Name": "Sharpshooter",
+    "Tag": "SW.EffectTemplate.Supercharge.II",
+    "Effect": "SW.Effect.Supercharge",
+    "Tier": "II",
+    "Value": 0.35,
+    "Icon": "sharpshooter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png"
+  },
+  {
+    "Name": "Sharpshooter",
+    "Tag": "SW.EffectTemplate.Supercharge.III",
+    "Effect": "SW.Effect.Supercharge",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "sharpshooter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png"
+  },
+  {
+    "Name": "Totem Radius",
+    "Tag": "SW.EffectTemplate.Expand.I",
+    "Effect": "SW.Effect.Expand",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "totem-radius.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png"
+  },
+  {
+    "Name": "Totem Radius",
+    "Tag": "SW.EffectTemplate.Expand.II",
+    "Effect": "SW.Effect.Expand",
+    "Tier": "II",
+    "Value": 0.3,
+    "Icon": "totem-radius.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png"
+  },
+  {
+    "Name": "Totem Radius",
+    "Tag": "SW.EffectTemplate.Expand.III",
+    "Effect": "SW.Effect.Expand",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "totem-radius.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png"
+  },
+  {
+    "Name": "Elemental Protection",
+    "Tag": "SW.EffectTemplate.ElementalProtection.I",
+    "Effect": "SW.Effect.ElementalProtection",
+    "Tier": "I",
+    "Value": -0.1,
+    "Icon": "elemental-protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png"
+  },
+  {
+    "Name": "Elemental Protection",
+    "Tag": "SW.EffectTemplate.ElementalProtection.II",
+    "Effect": "SW.Effect.ElementalProtection",
+    "Tier": "II",
+    "Value": -0.15,
+    "Icon": "elemental-protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png"
+  },
+  {
+    "Name": "Elemental Protection",
+    "Tag": "SW.EffectTemplate.ElementalProtection.III",
+    "Effect": "SW.Effect.ElementalProtection",
+    "Tier": "III",
+    "Value": -0.2,
+    "Icon": "elemental-protection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png"
+  },
+  {
+    "Name": "Bully",
+    "Tag": "SW.EffectTemplate.Opportunist.I",
+    "Effect": "SW.Effect.Opportunist",
+    "Tier": "I",
+    "Value": 0.25,
+    "Icon": "bully.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png"
+  },
+  {
+    "Name": "Bully",
+    "Tag": "SW.EffectTemplate.Opportunist.II",
+    "Effect": "SW.Effect.Opportunist",
+    "Tier": "II",
+    "Value": 0.35,
+    "Icon": "bully.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png"
+  },
+  {
+    "Name": "Bully",
+    "Tag": "SW.EffectTemplate.Opportunist.III",
+    "Effect": "SW.Effect.Opportunist",
+    "Tier": "III",
+    "Value": 0.5,
+    "Icon": "bully.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png"
+  },
+  {
+    "Name": "Deflection",
+    "Tag": "SW.EffectTemplate.Deflect.I",
+    "Effect": "SW.Effect.Deflect",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "deflection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png"
+  },
+  {
+    "Name": "Deflection",
+    "Tag": "SW.EffectTemplate.Deflect.II",
+    "Effect": "SW.Effect.Deflect",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "deflection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png"
+  },
+  {
+    "Name": "Deflection",
+    "Tag": "SW.EffectTemplate.Deflect.III",
+    "Effect": "SW.Effect.Deflect",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "deflection.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png"
+  },
+  {
+    "Name": "Looter",
+    "Tag": "SW.EffectTemplate.Looting.I",
+    "Effect": "SW.Effect.Looting",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "looter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png"
+  },
+  {
+    "Name": "Looter",
+    "Tag": "SW.EffectTemplate.Looting.II",
+    "Effect": "SW.Effect.Looting",
+    "Tier": "II",
+    "Value": 0.4,
+    "Icon": "looter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png"
+  },
+  {
+    "Name": "Looter",
+    "Tag": "SW.EffectTemplate.Looting.III",
+    "Effect": "SW.Effect.Looting",
+    "Tier": "III",
+    "Value": 0.6,
+    "Icon": "looter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png"
+  },
+  {
+    "Name": "Raider",
+    "Tag": "SW.EffectTemplate.Opulence.I",
+    "Effect": "SW.Effect.Opulence",
+    "Tier": "I",
+    "Value": 0.01,
+    "Icon": "raider.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png"
+  },
+  {
+    "Name": "Raider",
+    "Tag": "SW.EffectTemplate.Opulence.II",
+    "Effect": "SW.Effect.Opulence",
+    "Tier": "II",
+    "Value": 0.02,
+    "Icon": "raider.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png"
+  },
+  {
+    "Name": "Raider",
+    "Tag": "SW.EffectTemplate.Opulence.III",
+    "Effect": "SW.Effect.Opulence",
+    "Tier": "III",
+    "Value": 0.03,
+    "Icon": "raider.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png"
+  },
+  {
+    "Name": "Prowler",
+    "Tag": "SW.EffectTemplate.SwiftSneak.I",
+    "Effect": "SW.Effect.SwiftSneak",
+    "Tier": "I",
+    "Value": 0.15,
+    "Icon": "prowler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png"
+  },
+  {
+    "Name": "Prowler",
+    "Tag": "SW.EffectTemplate.SwiftSneak.II",
+    "Effect": "SW.Effect.SwiftSneak",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "prowler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png"
+  },
+  {
+    "Name": "Prowler",
+    "Tag": "SW.EffectTemplate.SwiftSneak.III",
+    "Effect": "SW.Effect.SwiftSneak",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "prowler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png"
+  },
+  {
+    "Name": "Assassin",
+    "Tag": "SW.EffectTemplate.Gambler.I",
+    "Effect": "SW.Effect.Gambler",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "assassin.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png"
+  },
+  {
+    "Name": "Assassin",
+    "Tag": "SW.EffectTemplate.Gambler.II",
+    "Effect": "SW.Effect.Gambler",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "assassin.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png"
+  },
+  {
+    "Name": "Assassin",
+    "Tag": "SW.EffectTemplate.Gambler.III",
+    "Effect": "SW.Effect.Gambler",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "assassin.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png"
+  },
+  {
+    "Name": "Brawler",
+    "Tag": "SW.EffectTemplate.SweepingEdge.I",
+    "Effect": "SW.Effect.SweepingEdge",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "brawler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png"
+  },
+  {
+    "Name": "Brawler",
+    "Tag": "SW.EffectTemplate.SweepingEdge.II",
+    "Effect": "SW.Effect.SweepingEdge",
+    "Tier": "II",
+    "Value": 0.3,
+    "Icon": "brawler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png"
+  },
+  {
+    "Name": "Brawler",
+    "Tag": "SW.EffectTemplate.SweepingEdge.III",
+    "Effect": "SW.Effect.SweepingEdge",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "brawler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png"
+  },
+  {
+    "Name": "Prickly",
+    "Tag": "SW.EffectTemplate.Thorns.I",
+    "Effect": "SW.Effect.Thorns",
+    "Tier": "I",
+    "Value": 0.5,
+    "Icon": "prickly.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png"
+  },
+  {
+    "Name": "Prickly",
+    "Tag": "SW.EffectTemplate.Thorns.II",
+    "Effect": "SW.Effect.Thorns",
+    "Tier": "II",
+    "Value": 0.65,
+    "Icon": "prickly.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png"
+  },
+  {
+    "Name": "Prickly",
+    "Tag": "SW.EffectTemplate.Thorns.III",
+    "Effect": "SW.Effect.Thorns",
+    "Tier": "III",
+    "Value": 0.8,
+    "Icon": "prickly.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png"
+  },
+  {
+    "Name": "Potion Maker",
+    "Tag": "SW.EffectTemplate.PotionMaster.I",
+    "Effect": "SW.Effect.PotionCooldown",
+    "Tier": "I",
+    "Value": -0.05,
+    "Icon": "potion-maker.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png"
+  },
+  {
+    "Name": "Potion Maker",
+    "Tag": "SW.EffectTemplate.PotionMaster.II",
+    "Effect": "SW.Effect.PotionCooldown",
+    "Tier": "II",
+    "Value": -0.1,
+    "Icon": "potion-maker.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png"
+  },
+  {
+    "Name": "Potion Maker",
+    "Tag": "SW.EffectTemplate.PotionMaster.III",
+    "Effect": "SW.Effect.PotionCooldown",
+    "Tier": "III",
+    "Value": -0.2,
+    "Icon": "potion-maker.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png"
+  },
+  {
+    "Name": "Cryomancer",
+    "Tag": "SW.EffectTemplate.FrostFocus.I",
+    "Effect": "SW.Effect.FrostFocus",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "cryomancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png"
+  },
+  {
+    "Name": "Cryomancer",
+    "Tag": "SW.EffectTemplate.FrostFocus.II",
+    "Effect": "SW.Effect.FrostFocus",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "cryomancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png"
+  },
+  {
+    "Name": "Cryomancer",
+    "Tag": "SW.EffectTemplate.FrostFocus.III",
+    "Effect": "SW.Effect.FrostFocus",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "cryomancer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png"
+  },
+  {
+    "Name": "Point Blank",
+    "Tag": "SW.EffectTemplate.PointBlank.I",
+    "Effect": "SW.Effect.PointBlank",
+    "Tier": "I",
+    "Value": 0.25,
+    "Icon": "point-blank.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png"
+  },
+  {
+    "Name": "Point Blank",
+    "Tag": "SW.EffectTemplate.PointBlank.II",
+    "Effect": "SW.Effect.PointBlank",
+    "Tier": "II",
+    "Value": 0.5,
+    "Icon": "point-blank.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png"
+  },
+  {
+    "Name": "Point Blank",
+    "Tag": "SW.EffectTemplate.PointBlank.III",
+    "Effect": "SW.Effect.PointBlank",
+    "Tier": "III",
+    "Value": 0.75,
+    "Icon": "point-blank.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png"
+  },
+  {
+    "Name": "Sniper",
+    "Tag": "SW.EffectTemplate.Sniper.I",
+    "Effect": "SW.Effect.Sniper",
+    "Tier": "I",
+    "Value": 0.25,
+    "Icon": "sniper.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png"
+  },
+  {
+    "Name": "Sniper",
+    "Tag": "SW.EffectTemplate.Sniper.II",
+    "Effect": "SW.Effect.Sniper",
+    "Tier": "II",
+    "Value": 0.5,
+    "Icon": "sniper.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png"
+  },
+  {
+    "Name": "Sniper",
+    "Tag": "SW.EffectTemplate.Sniper.III",
+    "Effect": "SW.Effect.Sniper",
+    "Tier": "III",
+    "Value": 0.75,
+    "Icon": "sniper.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png"
+  },
+  {
+    "Name": "Spiritual",
+    "Tag": "SW.EffectTemplate.BagOfSouls.I",
+    "Effect": "SW.Effect.SoulMax",
+    "Tier": "I",
+    "Value": 1.25,
+    "Icon": "spiritual.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png"
+  },
+  {
+    "Name": "Spiritual",
+    "Tag": "SW.EffectTemplate.BagOfSouls.II",
+    "Effect": "SW.Effect.SoulMax",
+    "Tier": "II",
+    "Value": 1.3,
+    "Icon": "spiritual.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png"
+  },
+  {
+    "Name": "Spiritual",
+    "Tag": "SW.EffectTemplate.BagOfSouls.III",
+    "Effect": "SW.Effect.SoulMax",
+    "Tier": "III",
+    "Value": 1.35,
+    "Icon": "spiritual.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png"
+  },
+  {
+    "Name": "Reaper",
+    "Tag": "SW.EffectTemplate.SoulSiphon.I",
+    "Effect": "SW.Effect.SoulGatherMultiply",
+    "Tier": "I",
+    "Value": 0.25,
+    "Icon": "reaper.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png"
+  },
+  {
+    "Name": "Reaper",
+    "Tag": "SW.EffectTemplate.SoulSiphon.II",
+    "Effect": "SW.Effect.SoulGatherMultiply",
+    "Tier": "II",
+    "Value": 0.35,
+    "Icon": "reaper.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png"
+  },
+  {
+    "Name": "Reaper",
+    "Tag": "SW.EffectTemplate.SoulSiphon.III",
+    "Effect": "SW.Effect.SoulGatherMultiply",
+    "Tier": "III",
+    "Value": 0.45,
+    "Icon": "reaper.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png"
+  },
+  {
+    "Name": "Acrobat",
+    "Tag": "SW.EffectTemplate.Acrobat.I",
+    "Effect": "SW.Effect.RollCooldown",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "acrobat.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png"
+  },
+  {
+    "Name": "Acrobat",
+    "Tag": "SW.EffectTemplate.Acrobat.II",
+    "Effect": "SW.Effect.RollCooldown",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "acrobat.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png"
+  },
+  {
+    "Name": "Acrobat",
+    "Tag": "SW.EffectTemplate.Acrobat.III",
+    "Effect": "SW.Effect.RollCooldown",
+    "Tier": "III",
+    "Value": 0.25,
+    "Icon": "acrobat.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png"
+  },
+  {
+    "Name": "Alchemist",
+    "Tag": "SW.EffectTemplate.AnimaConduit.I",
+    "Effect": "SW.Effect.AnimaConduit",
+    "Tier": "I",
+    "Value": 0.01,
+    "Icon": "alchemist.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png"
+  },
+  {
+    "Name": "Alchemist",
+    "Tag": "SW.EffectTemplate.AnimaConduit.II",
+    "Effect": "SW.Effect.AnimaConduit",
+    "Tier": "II",
+    "Value": 0.03,
+    "Icon": "alchemist.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png"
+  },
+  {
+    "Name": "Alchemist",
+    "Tag": "SW.EffectTemplate.AnimaConduit.III",
+    "Effect": "SW.Effect.AnimaConduit",
+    "Tier": "III",
+    "Value": 0.05,
+    "Icon": "alchemist.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png"
+  },
+  {
+    "Name": "Ranger",
+    "Tag": "SW.EffectTemplate.MultiShot.I",
+    "Effect": "SW.Effect.MultiShot",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "ranger.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png"
+  },
+  {
+    "Name": "Ranger",
+    "Tag": "SW.EffectTemplate.MultiShot.II",
+    "Effect": "SW.Effect.MultiShot",
+    "Tier": "II",
+    "Value": 0.3,
+    "Icon": "ranger.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png"
+  },
+  {
+    "Name": "Ranger",
+    "Tag": "SW.EffectTemplate.MultiShot.III",
+    "Effect": "SW.Effect.MultiShot",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "ranger.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png"
+  },
+  {
+    "Name": "Ally",
+    "Tag": "SW.EffectTemplate.Vivify.I",
+    "Effect": "SW.Effect.Vivify",
+    "Tier": "I",
+    "Value": 0.15,
+    "Icon": "ally.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png"
+  },
+  {
+    "Name": "Ally",
+    "Tag": "SW.EffectTemplate.Vivify.II",
+    "Effect": "SW.Effect.Vivify",
+    "Tier": "II",
+    "Value": 0.3,
+    "Icon": "ally.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png"
+  },
+  {
+    "Name": "Ally",
+    "Tag": "SW.EffectTemplate.Vivify.III",
+    "Effect": "SW.Effect.Vivify",
+    "Tier": "III",
+    "Value": 0.5,
+    "Icon": "ally.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png"
+  },
+  {
+    "Name": "Resilience",
+    "Tag": "SW.EffectTemplate.Resilience.I",
+    "Effect": "SW.Effect.Resilience",
+    "Tier": "I",
+    "Value": -0.2,
+    "Icon": "resilience.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png"
+  },
+  {
+    "Name": "Resilience",
+    "Tag": "SW.EffectTemplate.Resilience.II",
+    "Effect": "SW.Effect.Resilience",
+    "Tier": "II",
+    "Value": -0.25,
+    "Icon": "resilience.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png"
+  },
+  {
+    "Name": "Resilience",
+    "Tag": "SW.EffectTemplate.Resilience.III",
+    "Effect": "SW.Effect.Resilience",
+    "Tier": "III",
+    "Value": -0.3,
+    "Icon": "resilience.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png"
+  },
+  {
+    "Name": "Tainted",
+    "Tag": "SW.EffectTemplate.Saboteur.I",
+    "Effect": "SW.Effect.Saboteur",
+    "Tier": "I",
+    "Value": 0.4,
+    "Icon": "tainted.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png"
+  },
+  {
+    "Name": "Tainted",
+    "Tag": "SW.EffectTemplate.Saboteur.II",
+    "Effect": "SW.Effect.Saboteur",
+    "Tier": "II",
+    "Value": 0.6,
+    "Icon": "tainted.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png"
+  },
+  {
+    "Name": "Tainted",
+    "Tag": "SW.EffectTemplate.Saboteur.III",
+    "Effect": "SW.Effect.Saboteur",
+    "Tier": "III",
+    "Value": 0.8,
+    "Icon": "tainted.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png"
+  },
+  {
+    "Name": "Shackler",
+    "Tag": "SW.EffectTemplate.Chains.I",
+    "Effect": "SW.Effect.Chains",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "shackler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png"
+  },
+  {
+    "Name": "Shackler",
+    "Tag": "SW.EffectTemplate.Chains.II",
+    "Effect": "SW.Effect.Chains",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "shackler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png"
+  },
+  {
+    "Name": "Shackler",
+    "Tag": "SW.EffectTemplate.Chains.III",
+    "Effect": "SW.Effect.Chains",
+    "Tier": "III",
+    "Value": 0.25,
+    "Icon": "shackler.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png"
+  },
+  {
+    "Name": "Healer",
+    "Tag": "SW.EffectTemplate.HealingFocus.I",
+    "Effect": "SW.Effect.HealingFocus",
+    "Tier": "I",
+    "Value": 0.25,
+    "Icon": "healer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+  },
+  {
+    "Name": "Healer",
+    "Tag": "SW.EffectTemplate.HealingFocus.II",
+    "Effect": "SW.Effect.HealingFocus",
+    "Tier": "II",
+    "Value": 0.35,
+    "Icon": "healer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+  },
+  {
+    "Name": "Healer",
+    "Tag": "SW.EffectTemplate.HealingFocus.III",
+    "Effect": "SW.Effect.HealingFocus",
+    "Tier": "III",
+    "Value": 0.5,
+    "Icon": "healer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+  },
+  {
+    "Name": "Healer",
+    "Tag": "SW.EffectTemplate.HealingFocus.Unique",
+    "Effect": "SW.Effect.HealingFocus",
+    "Tier": "III",
+    "Value": 0.5,
+    "Icon": "healer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+  },
+  {
+    "Name": "Stealth",
+    "Tag": "SW.EffectTemplate.ShadowWalk.I",
+    "Effect": "SW.Effect.ShadowWalk",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "stealth.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+  },
+  {
+    "Name": "Stealth",
+    "Tag": "SW.EffectTemplate.ShadowWalk.II",
+    "Effect": "SW.Effect.ShadowWalk",
+    "Tier": "II",
+    "Value": 0.25,
+    "Icon": "stealth.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+  },
+  {
+    "Name": "Stealth",
+    "Tag": "SW.EffectTemplate.ShadowWalk.III",
+    "Effect": "SW.Effect.ShadowWalk",
+    "Tier": "III",
+    "Value": 0.35,
+    "Icon": "stealth.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+  },
+  {
+    "Name": "Stealth",
+    "Tag": "SW.EffectTemplate.ShadowWalk.Unique",
+    "Effect": "SW.Effect.ShadowWalk",
+    "Tier": "III",
+    "Value": 0.45,
+    "Icon": "stealth.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+  },
+  {
+    "Name": "Prospector",
+    "Tag": "SW.EffectTemplate.Prospector.I",
+    "Effect": "SW.Effect.EmeraldsIncrease",
+    "Tier": "I",
+    "Value": 0.05,
+    "Icon": "prospector.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png"
+  },
+  {
+    "Name": "Prospector",
+    "Tag": "SW.EffectTemplate.Prospector.II",
+    "Effect": "SW.Effect.EmeraldsIncrease",
+    "Tier": "II",
+    "Value": 0.1,
+    "Icon": "prospector.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png"
+  },
+  {
+    "Name": "Prospector",
+    "Tag": "SW.EffectTemplate.Prospector.III",
+    "Effect": "SW.Effect.EmeraldsIncrease",
+    "Tier": "III",
+    "Value": 0.15,
+    "Icon": "prospector.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png"
+  },
+  {
+    "Name": "Duelist",
+    "Tag": "SW.EffectTemplate.Duelist.I",
+    "Effect": "SW.Effect.Duelist",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "duelist.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+  },
+  {
+    "Name": "Duelist",
+    "Tag": "SW.EffectTemplate.Duelist.II",
+    "Effect": "SW.Effect.Duelist",
+    "Tier": "II",
+    "Value": 0.25,
+    "Icon": "duelist.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+  },
+  {
+    "Name": "Duelist",
+    "Tag": "SW.EffectTemplate.Duelist.III",
+    "Effect": "SW.Effect.Duelist",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "duelist.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+  },
+  {
+    "Name": "Duelist",
+    "Tag": "SW.EffectTemplate.Duelist.Unique",
+    "Effect": "SW.Effect.Duelist",
+    "Tier": "III",
+    "Value": 0.4,
+    "Icon": "duelist.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+  },
+  {
+    "Name": "Luck",
+    "Tag": "SW.EffectTemplate.Lucky.I",
+    "Effect": "SW.Effect.Lucky",
+    "Tier": "I",
+    "Value": 0.1,
+    "Icon": "luck.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png"
+  },
+  {
+    "Name": "Luck",
+    "Tag": "SW.EffectTemplate.Lucky.II",
+    "Effect": "SW.Effect.Lucky",
+    "Tier": "II",
+    "Value": 0.15,
+    "Icon": "luck.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png"
+  },
+  {
+    "Name": "Luck",
+    "Tag": "SW.EffectTemplate.Lucky.III",
+    "Effect": "SW.Effect.Lucky",
+    "Tier": "III",
+    "Value": 0.2,
+    "Icon": "luck.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png"
+  },
+  {
+    "Name": "Pack Leader",
+    "Tag": "SW.EffectTemplate.BeastBoss.I",
+    "Effect": "SW.Effect.BeastBoss",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "pack-leader.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png"
+  },
+  {
+    "Name": "Pack Leader",
+    "Tag": "SW.EffectTemplate.BeastBoss.II",
+    "Effect": "SW.Effect.BeastBoss",
+    "Tier": "II",
+    "Value": 0.25,
+    "Icon": "pack-leader.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png"
+  },
+  {
+    "Name": "Pack Leader",
+    "Tag": "SW.EffectTemplate.BeastBoss.III",
+    "Effect": "SW.Effect.BeastBoss",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "pack-leader.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png"
+  },
+  {
+    "Name": "Bowyer",
+    "Tag": "SW.EffectTemplate.ArrowBurst.I",
+    "Effect": "SW.Effect.ArrowBurst",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "bowyer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png"
+  },
+  {
+    "Name": "Bowyer",
+    "Tag": "SW.EffectTemplate.ArrowBurst.II",
+    "Effect": "SW.Effect.ArrowBurst",
+    "Tier": "II",
+    "Value": 0.25,
+    "Icon": "bowyer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png"
+  },
+  {
+    "Name": "Bowyer",
+    "Tag": "SW.EffectTemplate.ArrowBurst.III",
+    "Effect": "SW.Effect.ArrowBurst",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "bowyer.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png"
+  },
+  {
+    "Name": "Knockback",
+    "Tag": "SW.EffectTemplate.Knockback.I",
+    "Effect": "SW.Effect.Knockback",
+    "Tier": "I",
+    "Value": 0.15,
+    "Icon": "knockback.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png"
+  },
+  {
+    "Name": "Knockback",
+    "Tag": "SW.EffectTemplate.Knockback.II",
+    "Effect": "SW.Effect.Knockback",
+    "Tier": "II",
+    "Value": 0.2,
+    "Icon": "knockback.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png"
+  },
+  {
+    "Name": "Knockback",
+    "Tag": "SW.EffectTemplate.Knockback.III",
+    "Effect": "SW.Effect.Knockback",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "knockback.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png"
+  },
+  {
+    "Name": "Shepherd",
+    "Tag": "SW.EffectTemplate.Friendship.I",
+    "Effect": "SW.Effect.Friendship",
+    "Tier": "I",
+    "Value": -0.05,
+    "Icon": "shepherd.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png"
+  },
+  {
+    "Name": "Shepherd",
+    "Tag": "SW.EffectTemplate.Friendship.II",
+    "Effect": "SW.Effect.Friendship",
+    "Tier": "II",
+    "Value": -0.1,
+    "Icon": "shepherd.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png"
+  },
+  {
+    "Name": "Shepherd",
+    "Tag": "SW.EffectTemplate.Friendship.III",
+    "Effect": "SW.Effect.Friendship",
+    "Tier": "III",
+    "Value": -0.15,
+    "Icon": "shepherd.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png"
+  },
+  {
+    "Name": "Veterinarian",
+    "Tag": "SW.EffectTemplate.FriendsForever.I",
+    "Effect": "SW.Effect.FriendsForever",
+    "Tier": "I",
+    "Value": -0.05,
+    "Icon": "veterinarian.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png"
+  },
+  {
+    "Name": "Veterinarian",
+    "Tag": "SW.EffectTemplate.FriendsForever.II",
+    "Effect": "SW.Effect.FriendsForever",
+    "Tier": "II",
+    "Value": -0.1,
+    "Icon": "veterinarian.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png"
+  },
+  {
+    "Name": "Veterinarian",
+    "Tag": "SW.EffectTemplate.FriendsForever.III",
+    "Effect": "SW.Effect.FriendsForever",
+    "Tier": "III",
+    "Value": -0.15,
+    "Icon": "veterinarian.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png"
+  },
+  {
+    "Name": "Bounty Hunter",
+    "Tag": "SW.EffectTemplate.Committed.I",
+    "Effect": "SW.Effect.Committed",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "bounty-hunter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png"
+  },
+  {
+    "Name": "Bounty Hunter",
+    "Tag": "SW.EffectTemplate.Committed.II",
+    "Effect": "SW.Effect.Committed",
+    "Tier": "II",
+    "Value": 0.25,
+    "Icon": "bounty-hunter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png"
+  },
+  {
+    "Name": "Bounty Hunter",
+    "Tag": "SW.EffectTemplate.Committed.III",
+    "Effect": "SW.Effect.Committed",
+    "Tier": "III",
+    "Value": 0.3,
+    "Icon": "bounty-hunter.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png"
+  },
+  {
+    "Name": "Vanguard",
+    "Tag": "SW.EffectTemplate.Vanguard.I",
+    "Effect": "SW.Effect.Vanguard",
+    "Tier": "I",
+    "Value": 0.2,
+    "Icon": "vanguard.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png"
+  },
+  {
+    "Name": "Vanguard",
+    "Tag": "SW.EffectTemplate.Vanguard.II",
+    "Effect": "SW.Effect.Vanguard",
+    "Tier": "II",
+    "Value": 0.35,
+    "Icon": "vanguard.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png"
+  },
+  {
+    "Name": "Vanguard",
+    "Tag": "SW.EffectTemplate.Vanguard.III",
+    "Effect": "SW.Effect.Vanguard",
+    "Tier": "III",
+    "Value": 0.5,
+    "Icon": "vanguard.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png"
+  },
+  {
+    "Name": "Quiver",
+    "Tag": "SW.EffectTemplate.AmmoCapacity.I",
+    "Effect": "SW.Effect.AmmoCapacity",
+    "Tier": "I",
+    "Value": 1.1,
+    "Icon": "quiver.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png"
+  },
+  {
+    "Name": "Quiver",
+    "Tag": "SW.EffectTemplate.AmmoCapacity.II",
+    "Effect": "SW.Effect.AmmoCapacity",
+    "Tier": "II",
+    "Value": 1.15,
+    "Icon": "quiver.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png"
+  },
+  {
+    "Name": "Quiver",
+    "Tag": "SW.EffectTemplate.AmmoCapacity.III",
+    "Effect": "SW.Effect.AmmoCapacity",
+    "Tier": "III",
+    "Value": 1.2,
+    "Icon": "quiver.png",
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png"
+  }
+]

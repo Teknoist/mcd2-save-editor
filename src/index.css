@@ -1,0 +1,516 @@
+/* MCD2 Save Editor - Minecraft Dungeons 2 Inspired Theme */
+
+@import "tailwindcss";
+
+/* ===== FONTS ===== */
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Share+Tech+Mono&display=swap');
+
+/* ===== CSS VARIABLES ===== */
+:root {
+  /* Background colors */
+  --bg-void: #0a0a0f;
+  --bg-deep: #0d0d1a;
+  --bg-dark: #111122;
+  --bg-panel: #161628;
+  --bg-surface: #1e1e35;
+  --bg-raised: #252545;
+  --bg-hover: #2e2e55;
+
+  /* Rarity colors */
+  --color-common: #9a9a9a;
+  --color-rare: #5ab552;
+  --color-unique: #d18d3a;
+  --color-special: #a44fd4;
+
+  /* Rarity backgrounds */
+  --bg-common: #2a2a2a;
+  --bg-rare: #1a2e1a;
+  --bg-unique: #2e1e0a;
+  --bg-special: #1a0a2e;
+
+  /* Rarity borders */
+  --border-common: #6a6a6a;
+  --border-rare: #3a8a35;
+  --border-unique: #9a6020;
+  --border-special: #7a3ab0;
+
+  /* Accent colors */
+  --accent-gold: #f0c030;
+  --accent-green: #5ab552;
+  --accent-red: #cc3333;
+  --accent-blue: #4488dd;
+  --accent-purple: #9944cc;
+
+  /* Text colors */
+  --text-primary: #e8e8f0;
+  --text-secondary: #9999bb;
+  --text-muted: #555577;
+  --text-gold: #f0c030;
+  --text-rare: #5ab552;
+  --text-unique: #d18d3a;
+  --text-special: #a44fd4;
+
+  /* Border colors */
+  --border-subtle: #222244;
+  --border-normal: #333366;
+  --border-active: #5555aa;
+
+  /* Glow effects */
+  --glow-gold: 0 0 8px rgba(240, 192, 48, 0.5);
+  --glow-rare: 0 0 8px rgba(90, 181, 82, 0.4);
+  --glow-unique: 0 0 8px rgba(209, 141, 58, 0.4);
+  --glow-special: 0 0 8px rgba(164, 79, 212, 0.4);
+}
+
+/* ===== BASE ===== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-void);
+  color: var(--text-primary);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 13px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  height: 100vh;
+  user-select: none;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ===== SCROLLBAR ===== */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--bg-deep); }
+::-webkit-scrollbar-thumb {
+  background: var(--border-normal);
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--border-active); }
+
+/* ===== PANELS ===== */
+.panel {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+}
+
+.panel-raised {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-normal);
+}
+
+.panel-surface {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+}
+
+/* ===== MINECRAFT-STYLE BUTTONS ===== */
+.mc-btn {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-normal);
+  color: var(--text-primary);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 12px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: all 0.1s;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.mc-btn:hover {
+  background: var(--bg-hover);
+  border-color: var(--border-active);
+  color: var(--text-primary);
+}
+
+.mc-btn:active {
+  transform: translateY(1px);
+}
+
+.mc-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.mc-btn-primary {
+  background: #1e4a2e;
+  border-color: var(--color-rare);
+  color: var(--text-primary);
+}
+.mc-btn-primary:hover {
+  background: #25603a;
+  border-color: #7adf70;
+}
+
+.mc-btn-danger {
+  background: #3a1010;
+  border-color: #aa2222;
+  color: #ff7777;
+}
+.mc-btn-danger:hover {
+  background: #4a1515;
+  border-color: var(--accent-red);
+}
+
+.mc-btn-gold {
+  background: #2e2000;
+  border-color: #9a7800;
+  color: var(--accent-gold);
+}
+.mc-btn-gold:hover {
+  background: #3a2800;
+  border-color: var(--accent-gold);
+}
+
+.mc-btn-icon {
+  padding: 6px;
+  min-width: 30px;
+  justify-content: center;
+}
+
+/* ===== INPUTS ===== */
+.mc-input {
+  background: var(--bg-deep);
+  border: 1px solid var(--border-normal);
+  color: var(--text-primary);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 13px;
+  padding: 5px 8px;
+  outline: none;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+
+.mc-input:focus {
+  border-color: var(--border-active);
+  box-shadow: 0 0 0 1px rgba(85, 85, 170, 0.3);
+}
+
+.mc-input:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.mc-select {
+  background: var(--bg-deep);
+  border: 1px solid var(--border-normal);
+  color: var(--text-primary);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 12px;
+  padding: 5px 8px;
+  outline: none;
+  width: 100%;
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%239999bb' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  padding-right: 28px;
+}
+
+.mc-select:focus {
+  border-color: var(--border-active);
+}
+
+.mc-select option {
+  background: var(--bg-panel);
+  color: var(--text-primary);
+}
+
+/* ===== ITEM SLOT ===== */
+.item-slot {
+  width: 56px;
+  height: 56px;
+  background: #1a1a2a;
+  border: 2px solid var(--border-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.12s;
+  flex-shrink: 0;
+}
+
+.item-slot:hover {
+  border-color: var(--border-active);
+  background: var(--bg-surface);
+}
+
+.item-slot.selected {
+  border-color: var(--accent-gold) !important;
+  box-shadow: var(--glow-gold);
+}
+
+.item-slot.equipped::after {
+  content: 'E';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  font-size: 9px;
+  font-family: 'Share Tech Mono', monospace;
+  color: var(--accent-green);
+  background: rgba(0,0,0,0.7);
+  padding: 0 2px;
+  line-height: 1.3;
+}
+
+/* Rarity variations */
+.item-slot.rarity-common { border-color: var(--border-common); background: var(--bg-common); }
+.item-slot.rarity-rare { border-color: var(--border-rare); background: var(--bg-rare); }
+.item-slot.rarity-unique { border-color: var(--border-unique); background: var(--bg-unique); }
+.item-slot.rarity-special { border-color: var(--border-special); background: var(--bg-special); }
+
+.item-slot.rarity-rare:hover { box-shadow: var(--glow-rare); }
+.item-slot.rarity-unique:hover { box-shadow: var(--glow-unique); }
+.item-slot.rarity-special:hover { box-shadow: var(--glow-special); }
+
+/* Power badge */
+.power-badge {
+  position: absolute;
+  bottom: 1px;
+  right: 1px;
+  font-size: 9px;
+  font-family: 'Share Tech Mono', monospace;
+  color: var(--accent-gold);
+  background: rgba(0,0,0,0.8);
+  padding: 0 2px;
+  line-height: 1.4;
+}
+
+/* ===== RARITY TEXT ===== */
+.rarity-common { color: var(--color-common); }
+.rarity-rare { color: var(--color-rare); }
+.rarity-unique { color: var(--color-unique); }
+.rarity-special { color: var(--color-special); }
+
+/* ===== SECTION TITLES ===== */
+.section-title {
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text-gold);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.8);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border-subtle);
+  margin-bottom: 12px;
+}
+
+/* ===== ENCHANT SLOT ===== */
+.enchant-slot {
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-deep);
+  padding: 8px;
+  position: relative;
+}
+
+.enchant-slot-label {
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ===== ATTRIBUTE ROW ===== */
+.attr-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.attr-label {
+  color: var(--text-secondary);
+  font-size: 11px;
+  flex: 0 0 160px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+/* ===== TABS ===== */
+.tab-btn {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 12px;
+  padding: 8px 16px;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tab-btn:hover {
+  color: var(--text-secondary);
+  background: rgba(255,255,255,0.03);
+}
+
+.tab-btn.active {
+  color: var(--text-gold);
+  border-bottom-color: var(--accent-gold);
+}
+
+/* ===== TOOLTIPS ===== */
+[data-tooltip] {
+  position: relative;
+}
+
+[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-raised);
+  border: 1px solid var(--border-normal);
+  color: var(--text-primary);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 11px;
+  padding: 4px 8px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+  z-index: 100;
+}
+
+[data-tooltip]:hover::after {
+  opacity: 1;
+}
+
+/* ===== SAVE LIST ===== */
+.save-list-item {
+  padding: 10px 12px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  cursor: pointer;
+  transition: all 0.12s;
+  margin-bottom: 4px;
+}
+
+.save-list-item:hover {
+  background: var(--bg-raised);
+  border-color: var(--border-normal);
+}
+
+.save-list-item.active {
+  background: var(--bg-hover);
+  border-color: var(--accent-gold);
+  box-shadow: var(--glow-gold);
+}
+
+/* ===== TOAST NOTIFICATIONS ===== */
+.toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--bg-raised);
+  border: 1px solid var(--border-normal);
+  color: var(--text-primary);
+  padding: 10px 16px;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 12px;
+  z-index: 1000;
+  animation: slideIn 0.2s ease-out;
+  max-width: 300px;
+}
+
+.toast.success { border-color: var(--color-rare); }
+.toast.error { border-color: var(--accent-red); }
+.toast.info { border-color: var(--accent-blue); }
+
+@keyframes slideIn {
+  from { transform: translateX(100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+/* ===== MISC ===== */
+.divider {
+  border: none;
+  border-top: 1px solid var(--border-subtle);
+  margin: 8px 0;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 10px;
+  padding: 1px 6px;
+  border: 1px solid;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.badge-green { border-color: var(--color-rare); color: var(--color-rare); background: rgba(90,181,82,0.1); }
+.badge-gold { border-color: var(--accent-gold); color: var(--accent-gold); background: rgba(240,192,48,0.1); }
+.badge-red { border-color: var(--accent-red); color: var(--accent-red); background: rgba(204,51,51,0.1); }
+.badge-purple { border-color: var(--color-special); color: var(--color-special); background: rgba(164,79,212,0.1); }
+
+/* ===== ADVANCED PANEL ===== */
+.raw-viewer {
+  background: var(--bg-deep);
+  border: 1px solid var(--border-subtle);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 11px;
+  color: #7799bb;
+  padding: 12px;
+  overflow: auto;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+/* ===== SEARCH BOX ===== */
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg-deep);
+  border: 1px solid var(--border-normal);
+  padding: 0 8px;
+}
+
+.search-box input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--text-primary);
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 12px;
+  padding: 6px 0;
+  flex: 1;
+}
+
+.search-box:focus-within {
+  border-color: var(--border-active);
+}
+
+/* Progress/loading */
+.loading-spinner {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--border-normal);
+  border-top-color: var(--accent-gold);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
