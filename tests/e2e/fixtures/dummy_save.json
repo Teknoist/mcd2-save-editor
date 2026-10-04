@@ -1,0 +1,225 @@
+{
+  "SerializeMeta": {
+    "InternalVersion": 0,
+    "HardFormat": "FCharacterSaveV1",
+    "SoftVersion": 5,
+    "FormatHash": 1764133460
+  },
+  "CharacterSaveV1": {
+    "MetaData": {
+      "CharacterId": "dummy-hero-uuid-001",
+      "Created": 1690000000,
+      "GameDataUpdated": 639264951624270000,
+      "IsOnline": false,
+      "IsGuest": false,
+      "Level": 32,
+      "PowerLevel": 40,
+      "CurrentLocation": "SW.Area.Town",
+      "ReleaseToggles": [
+        "R1",
+        "R2"
+      ],
+      "CurrentDifficulty": "None"
+    },
+    "Ability": {
+      "Attributes": [
+        {
+          "AttributeName": "Level",
+          "CurrentValue": 32
+        },
+        {
+          "AttributeName": "Emeralds",
+          "CurrentValue": 50000
+        },
+        {
+          "AttributeName": "SpringStone",
+          "CurrentValue": 100
+        },
+        {
+          "AttributeName": "EnchantmentPoints",
+          "CurrentValue": 10
+        },
+        {
+          "AttributeName": "VillageMerchantUpgradeLevel",
+          "CurrentValue": 3
+        },
+        {
+          "AttributeName": "EnchantsmithUpgradeLevel",
+          "CurrentValue": 2
+        },
+        {
+          "AttributeName": "OldBlacksmithUpgradeLevel",
+          "CurrentValue": 1
+        }
+      ],
+      "ProgressionTags": []
+    },
+    "Achievements": {
+      "QuestAchievements": {},
+      "BoolAchievements": {},
+      "CollectionAchievements": {},
+      "CountAchievements": {}
+    },
+    "CollectionsStats": {},
+    "Cosmetics": {
+      "Cosmetics": {
+        "SW.Skin": {
+          "TypeTag": "SW.Skin.Valorie"
+        }
+      }
+    },
+    "Inventory": {
+      "Entries": [
+        {
+          "ItemData": {
+            "TypeTag": "SW.Item.Scythe",
+            "RarityTag": "SW.Rarity.Rare",
+            "Effects": [
+              {
+                "TypeTag": "SW.Item.Effect.Rerollable",
+                "EffectsInThisBatch": [
+                  {
+                    "TypeTag": "SW.Effect.CriticalEdge",
+                    "Intensity": 0.1,
+                    "Quality": 1,
+                    "EnchantmentPointsInvested": 0,
+                    "GeneratorData": {
+                      "GeneratorParentTemplate": "SW.EffectTemplate.CriticalEdge.I",
+                      "Locked": false
+                    }
+                  }
+                ]
+              }
+            ],
+            "ItemProgression": {
+              "CurrentLevel": 0,
+              "CurrentXP": 0,
+              "ItemLevels": []
+            },
+            "GeneratorData": {
+              "GenesisRandomSeed": 134191271,
+              "PowerGeneratorValues": {
+                "PlayerLevel": 16,
+                "AreaThreatLevel": 1,
+                "RecommendedThreatLevel": 4,
+                "ThreatSliderOffset": 0,
+                "ItemPowerMin": 18,
+                "ItemPowerMax": 26,
+                "RNGRoll": 0.465671,
+                "ItemPower": 22,
+                "ItemPowerOriginal": 22
+              }
+            },
+            "DynamicPropertyTags": [],
+            "TargetSlotOverride": "None",
+            "PickupTimestamp": 1790823427,
+            "EffectRerolls": 0
+          },
+          "StackCount": 1,
+          "EquippedSlot": "None",
+          "MerchantItemSold": false,
+          "MerchantDiscount": 0
+        },
+        {
+          "ItemData": {
+            "TypeTag": "SW.Item.Pickaxe",
+            "RarityTag": "SW.Rarity.Common",
+            "Effects": [],
+            "ItemProgression": {
+              "CurrentLevel": 0,
+              "CurrentXP": 0,
+              "ItemLevels": []
+            },
+            "GeneratorData": {
+              "GenesisRandomSeed": 626879255,
+              "PowerGeneratorValues": {
+                "PlayerLevel": 13,
+                "AreaThreatLevel": 1,
+                "RecommendedThreatLevel": 3,
+                "ThreatSliderOffset": 0,
+                "ItemPowerMin": 13,
+                "ItemPowerMax": 21,
+                "RNGRoll": 0.174297,
+                "ItemPower": 14,
+                "ItemPowerOriginal": 14
+              }
+            },
+            "DynamicPropertyTags": [],
+            "TargetSlotOverride": "None",
+            "PickupTimestamp": 0,
+            "EffectRerolls": 0
+          },
+          "StackCount": 1,
+          "EquippedSlot": "None",
+          "MerchantItemSold": false,
+          "MerchantDiscount": 0
+        },
+        {
+          "ItemData": {
+            "TypeTag": "SW.Item.HeavyCrossbow",
+            "RarityTag": "SW.Rarity.Special",
+            "Effects": [
+              {
+                "TypeTag": "SW.Item.Effect.Rerollable",
+                "EffectsInThisBatch": [
+                  {
+                    "TypeTag": "SW.Effect.CriticalHit",
+                    "Intensity": 0.05,
+                    "Quality": 1,
+                    "EnchantmentPointsInvested": 0,
+                    "GeneratorData": {
+                      "GeneratorParentTemplate": "SW.EffectTemplate.CriticalHit.I",
+                      "Locked": false
+                    }
+                  }
+                ]
+              },
+              {
+                "TypeTag": "SW.Item.Effect.Rerollable",
+                "EffectsInThisBatch": [
+                  {
+                    "TypeTag": "SW.Effect.Knockback",
+                    "Intensity": 0.15,
+                    "Quality": 1,
+                    "EnchantmentPointsInvested": 0,
+                    "GeneratorData": {
+                      "GeneratorParentTemplate": "SW.EffectTemplate.Knockback.I",
+                      "Locked": false
+                    }
+                  }
+                ]
+              }
+            ],
+            "ItemProgression": {
+              "CurrentLevel": 0,
+              "CurrentXP": 0,
+              "ItemLevels": []
+            },
+            "GeneratorData": {
+              "GenesisRandomSeed": 1286881252,
+              "PowerGeneratorValues": {
+                "PlayerLevel": 19,
+                "AreaThreatLevel": 1,
+                "RecommendedThreatLevel": 4,
+                "ThreatSliderOffset": 0,
+                "ItemPowerMin": 23,
+                "ItemPowerMax": 31,
+                "RNGRoll": 0.163418,
+                "ItemPower": 24,
+                "ItemPowerOriginal": 24
+              }
+            },
+            "DynamicPropertyTags": [],
+            "TargetSlotOverride": "None",
+            "PickupTimestamp": 1790825205,
+            "EffectRerolls": 0
+          },
+          "StackCount": 1,
+          "EquippedSlot": "None",
+          "MerchantItemSold": false,
+          "MerchantDiscount": 0
+        }
+      ]
+    }
+  }
+}

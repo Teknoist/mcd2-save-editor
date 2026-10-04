@@ -1,0 +1,72 @@
+--- a/src/core/gameData.ts
++++ b/src/core/gameData.ts
+@@ -29,15 +29,20 @@ export interface EnchantEntry {
+   Slots: string[]; // which equipment slots this enchant can go on
+   Tiers: Array<{ Tier: string; Value: number }>;
+   Source: string;
++  Description?: string;
+ }
+ 
+ export interface EffectEntry {
+   Name: string;
+   Tag: string;
++  Effect: string;
++  Tier: string;
++  Value: number;
+   Icon?: string;
+   IconUrl?: string;
+   Category?: string;
+   Source?: string;
++  Description?: string;
+ }
+ 
+ // Type-safe game data
+@@ -63,7 +68,7 @@ export function getEffect(tag: string): EffectEntry | undefined {
+ }
+ 
+ export function getGearName(tag: string): string {
+-  return gearByTag.get(tag)?.Name ?? formatTagToName(tag);
++  return gearByTag.get(tag)?.Name ?? formatTag(tag);
+ }
+ 
+ export function getEffectName(tag: string): string {
+@@ -72,7 +77,7 @@ export function getEffectName(tag: string): string {
+   if (enchant) return enchant.Name;
+   const effect = effectByTag.get(tag);
+   if (effect) return effect.Name;
+-  return formatTagToName(tag);
++  return formatTag(tag);
+ }
+ 
+ export function getIconUrl(tag: string): string | null {
+@@ -97,22 +102,26 @@ export function getEnchantsForSlot(slotTag: string): EnchantEntry[] {
+ }
+ 
+ /** Format a TypeTag to human-readable name as fallback */
+-function formatTagToName(tag: string): string {
++export function formatTag(tag: string): string {
+   if (!tag) return 'Unknown';
+   return tag
+-    .replace(/^SW\.Item\./, '')
+-    .replace(/^SW\.Effect\./, '')
+-    .replace(/^SW\.Enchantment\./, '')
++    .replace(/^SW\.(Item|Effect|Enchantment|EffectTemplate|Rarity)\./, '')
++    .replace(/\.Unique$/, '')
++    .replace(/\.[IVX]+$/, '')
+     .replace(/^Artifact\./, '')
+     .replace(/^Cosmetic\.(Cape|Pet)\./, '$1: ')
+     .replace(/^EnchantmentBook\./, 'Enchantment: ')
+     .replace(/^Talisman\./, 'Talisman: ')
++    .replace(/([a-z])([A-Z])/g, '$1 $2')
+     .replace(/([A-Z])/g, ' $1')
+     .replace(/_/g, ' ')
+     .replace(/\s+/g, ' ')
+     .trim();
+ }
+ 
++/** Legacy alias for backwards compatibility */
++export const formatTagToName = formatTag;
++
+ // Category groupings derived from gear data
+ export const GEAR_CATEGORIES = [...new Set(GEAR_LIST.map(g => g.Category))].sort();
+ 

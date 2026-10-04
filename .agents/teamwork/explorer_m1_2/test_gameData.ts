@@ -1,10 +1,6 @@
-// Real game data loader — reads from the bundled JSON files
-// sourced from Tonystukl/MCD2SaveEdit (MIT License)
-// which themselves were researched from actual MCD2 game data.
-
-import gearData from '../data/gear.json';
-import enchantsData from '../data/enchants.json';
-import effectsData from '../data/effects.json';
+import gearData from '../../../src/data/gear.json';
+import enchantsData from '../../../src/data/enchants.json';
+import effectsData from '../../../src/data/effects.json';
 
 export interface GearEntry {
   Name: string;
@@ -18,7 +14,7 @@ export interface GearEntry {
   Slot: string;
   Effects: unknown[];
   Levels: unknown[];
-  Pool: string[]; // valid effect template tags for this item
+  Pool: string[];
 }
 
 export interface EnchantEntry {
@@ -26,7 +22,7 @@ export interface EnchantEntry {
   Tag: string;
   Icon: string;
   IconUrl: string;
-  Slots: string[]; // which equipment slots this enchant can go on
+  Slots: string[];
   Tiers: Array<{ Tier: string; Value: number }>;
   Source: string;
   Description?: string;
@@ -45,22 +41,13 @@ export interface EffectEntry {
   Description?: string;
 }
 
-// Type-safe game data
 export const GEAR_LIST: GearEntry[] = gearData as GearEntry[];
 export const ENCHANT_LIST: EnchantEntry[] = enchantsData as EnchantEntry[];
 export const EFFECT_LIST: EffectEntry[] = effectsData as EffectEntry[];
 
-// Lookup maps for O(1) access
 const gearByTag = new Map<string, GearEntry>(GEAR_LIST.map(g => [g.Tag, g]));
 const enchantByTag = new Map<string, EnchantEntry>(ENCHANT_LIST.map(e => [e.Tag, e]));
-// Map indexing both template tag (SW.EffectTemplate.*) and effect tag (SW.Effect.*)
-const effectByTag = new Map<string, EffectEntry>();
-for (const e of EFFECT_LIST) {
-  effectByTag.set(e.Tag, e);
-  if (e.Effect && !effectByTag.has(e.Effect)) {
-    effectByTag.set(e.Effect, e);
-  }
-}
+const effectByTag = new Map<string, EffectEntry>(EFFECT_LIST.map(e => [e.Tag, e]));
 
 export function getGear(tag: string): GearEntry | undefined {
   return gearByTag.get(tag);
@@ -79,7 +66,6 @@ export function getGearName(tag: string): string {
 }
 
 export function getEffectName(tag: string): string {
-  // Check enchants first (SW.Enchantment.*), then effects
   const enchant = enchantByTag.get(tag);
   if (enchant) return enchant.Name;
   const effect = effectByTag.get(tag);
@@ -97,39 +83,31 @@ export function getIconUrl(tag: string): string | null {
   return null;
 }
 
-/** Get the valid enchant pool for an item tag */
 export function getItemEnchantPool(itemTag: string): string[] {
   return gearByTag.get(itemTag)?.Pool ?? [];
 }
 
-/** Get enchants compatible with a given equipment slot */
 export function getEnchantsForSlot(slotTag: string): EnchantEntry[] {
   if (!slotTag || slotTag === 'None') return ENCHANT_LIST;
   return ENCHANT_LIST.filter(e => e.Slots.length === 0 || e.Slots.includes(slotTag));
 }
 
-/** Format a TypeTag to human-readable name as fallback */
 export function formatTag(tag: string): string {
   if (!tag) return 'Unknown';
   return tag
-    .replace(/^SW\.(Item|Effect|Enchantment|EffectTemplate|Rarity)\./, '')
-    .replace(/\.Unique$/, '')
-    .replace(/\.[IVX]+$/, '')
+    .replace(/^SW\.(Item|Effect|Enchantment)\./, '')
     .replace(/^Artifact\./, '')
     .replace(/^Cosmetic\.(Cape|Pet)\./, '$1: ')
     .replace(/^EnchantmentBook\./, 'Enchantment: ')
     .replace(/^Talisman\./, 'Talisman: ')
-    .replace(/([a-z])([A-Z])/g, '$1 $2')
     .replace(/([A-Z])/g, ' $1')
     .replace(/_/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
 
-/** Legacy alias for backwards compatibility */
 export const formatTagToName = formatTag;
 
-// Category groupings derived from gear data
 export const GEAR_CATEGORIES = [...new Set(GEAR_LIST.map(g => g.Category))].sort();
 
 export function getGearByCategory(category: string): GearEntry[] {

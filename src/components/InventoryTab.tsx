@@ -373,6 +373,7 @@ function ItemDetailPanel({ entry, rarityInfo, showAdvanced, onToggleAdvanced, on
                         <optgroup label="Effects">
                           {EFFECT_LIST.map(ef => <option key={ef.Tag} value={ef.Tag}>{ef.Name}</option>)}
                         </optgroup>
+                        
                         <optgroup label="Enchantments">
                           {ENCHANT_LIST.map(en => <option key={en.Tag} value={en.Tag}>{en.Name}</option>)}
                         </optgroup>
@@ -382,6 +383,14 @@ function ItemDetailPanel({ entry, rarityInfo, showAdvanced, onToggleAdvanced, on
                         <Trash2 size={10} />
                       </button>
                     </div>
+                    {/* ENCHANT DESCRIPTION */}
+                    {(() => {
+                        const effectDef = EFFECT_LIST.find(ef => ef.Tag === eff.TypeTag) || ENCHANT_LIST.find(en => en.Tag === eff.TypeTag);
+                        if (effectDef && effectDef.Description) {
+                            return <div style={{ fontSize: 10, color: 'var(--text-muted)', marginBottom: '6px', fontStyle: 'italic', lineHeight: 1.2 }}>"{effectDef.Description}"</div>
+                        }
+                        return null;
+                    })()}
                     <div className="flex items-center gap-2">
                       <span style={{ color: 'var(--text-muted)', fontSize: 10, flexShrink: 0 }}>Tier</span>
                       <select className="mc-select" style={{ width: 60, fontSize: 11 }}

@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Name": "Protection",
     "Tag": "SW.EffectTemplate.Protection.I",
@@ -6,7 +6,8 @@
     "Tier": "I",
     "Value": -0.1,
     "Icon": "protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png",
+    "Description": "Reduces all incoming damage by a flat percentage."
   },
   {
     "Name": "Protection",
@@ -15,7 +16,8 @@
     "Tier": "II",
     "Value": -0.15,
     "Icon": "protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png",
+    "Description": "Reduces all incoming damage by a flat percentage."
   },
   {
     "Name": "Protection",
@@ -24,7 +26,8 @@
     "Tier": "III",
     "Value": -0.2,
     "Icon": "protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/protection.png",
+    "Description": "Reduces all incoming damage by a flat percentage."
   },
   {
     "Name": "Sharpness",
@@ -33,7 +36,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "sharpness.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png",
+    "Description": "Increases base melee weapon attack damage."
   },
   {
     "Name": "Sharpness",
@@ -42,7 +46,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "sharpness.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png",
+    "Description": "Increases base melee weapon attack damage."
   },
   {
     "Name": "Sharpness",
@@ -51,7 +56,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "sharpness.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpness.png",
+    "Description": "Increases base melee weapon attack damage."
   },
   {
     "Name": "Swiftness",
@@ -60,7 +66,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "swiftness.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png",
+    "Description": "Increases melee attack speed."
   },
   {
     "Name": "Swiftness",
@@ -69,7 +76,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "swiftness.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png",
+    "Description": "Increases melee attack speed."
   },
   {
     "Name": "Swiftness",
@@ -78,7 +86,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "swiftness.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/swiftness.png",
+    "Description": "Increases melee attack speed."
   },
   {
     "Name": "Speed",
@@ -87,7 +96,8 @@
     "Tier": "I",
     "Value": 0.05,
     "Icon": "speed.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png",
+    "Description": "Increases base movement speed."
   },
   {
     "Name": "Speed",
@@ -96,7 +106,8 @@
     "Tier": "II",
     "Value": 0.1,
     "Icon": "speed.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png",
+    "Description": "Increases base movement speed."
   },
   {
     "Name": "Speed",
@@ -105,7 +116,8 @@
     "Tier": "III",
     "Value": 0.15,
     "Icon": "speed.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/speed.png",
+    "Description": "Increases base movement speed."
   },
   {
     "Name": "Critical Hit",
@@ -114,7 +126,8 @@
     "Tier": "I",
     "Value": 0.05,
     "Icon": "critical-hit.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png",
+    "Description": "Increases the chance of landing a critical hit on attack."
   },
   {
     "Name": "Critical Hit",
@@ -123,7 +136,8 @@
     "Tier": "II",
     "Value": 0.1,
     "Icon": "critical-hit.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png",
+    "Description": "Increases the chance of landing a critical hit on attack."
   },
   {
     "Name": "Critical Hit",
@@ -132,7 +146,8 @@
     "Tier": "III",
     "Value": 0.15,
     "Icon": "critical-hit.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-hit.png",
+    "Description": "Increases the chance of landing a critical hit on attack."
   },
   {
     "Name": "Cooldown",
@@ -141,7 +156,8 @@
     "Tier": "I",
     "Value": -0.1,
     "Icon": "cooldown.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png",
+    "Description": "Reduces the cooldown time of all equipped artifacts."
   },
   {
     "Name": "Cooldown",
@@ -150,7 +166,8 @@
     "Tier": "II",
     "Value": -0.15,
     "Icon": "cooldown.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png",
+    "Description": "Reduces the cooldown time of all equipped artifacts."
   },
   {
     "Name": "Cooldown",
@@ -159,7 +176,8 @@
     "Tier": "III",
     "Value": -0.2,
     "Icon": "cooldown.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cooldown.png",
+    "Description": "Reduces the cooldown time of all equipped artifacts."
   },
   {
     "Name": "Impact",
@@ -168,7 +186,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "impact.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png",
+    "Description": "Increases base attack impact and staggering force against enemies."
   },
   {
     "Name": "Impact",
@@ -177,7 +196,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "impact.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png",
+    "Description": "Increases base attack impact and staggering force against enemies."
   },
   {
     "Name": "Impact",
@@ -186,7 +206,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "impact.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/impact.png",
+    "Description": "Increases base attack impact and staggering force against enemies."
   },
   {
     "Name": "Recovery",
@@ -195,7 +216,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "recovery.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png",
+    "Description": "Reduces delay before health regeneration begins after taking damage."
   },
   {
     "Name": "Recovery",
@@ -204,7 +226,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "recovery.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png",
+    "Description": "Reduces delay before health regeneration begins after taking damage."
   },
   {
     "Name": "Recovery",
@@ -213,7 +236,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "recovery.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png",
+    "Description": "Reduces delay before health regeneration begins after taking damage."
   },
   {
     "Name": "Recovery",
@@ -222,7 +246,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "recovery.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/recovery.png",
+    "Description": "Reduces delay before health regeneration begins after taking damage."
   },
   {
     "Name": "Reload",
@@ -231,7 +256,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "reload.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png",
+    "Description": "Increases bow drawing speed and crossbow reload rate."
   },
   {
     "Name": "Reload",
@@ -240,7 +266,8 @@
     "Tier": "II",
     "Value": 0.3,
     "Icon": "reload.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png",
+    "Description": "Increases bow drawing speed and crossbow reload rate."
   },
   {
     "Name": "Reload",
@@ -249,7 +276,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "reload.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reload.png",
+    "Description": "Increases bow drawing speed and crossbow reload rate."
   },
   {
     "Name": "Evasion",
@@ -258,7 +286,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "evasion.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png",
+    "Description": "Grants a chance to completely dodge and evade incoming enemy attacks."
   },
   {
     "Name": "Evasion",
@@ -267,7 +296,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "evasion.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png",
+    "Description": "Grants a chance to completely dodge and evade incoming enemy attacks."
   },
   {
     "Name": "Evasion",
@@ -276,7 +306,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "evasion.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png",
+    "Description": "Grants a chance to completely dodge and evade incoming enemy attacks."
   },
   {
     "Name": "Evasion",
@@ -285,7 +316,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "evasion.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/evasion.png",
+    "Description": "Grants a chance to completely dodge and evade incoming enemy attacks."
   },
   {
     "Name": "Regeneration",
@@ -294,7 +326,8 @@
     "Tier": "I",
     "Value": 0.05,
     "Icon": "regeneration.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png",
+    "Description": "Continuously regenerates a percentage of health every second."
   },
   {
     "Name": "Regeneration",
@@ -303,7 +336,8 @@
     "Tier": "II",
     "Value": 0.075,
     "Icon": "regeneration.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png",
+    "Description": "Continuously regenerates a percentage of health every second."
   },
   {
     "Name": "Regeneration",
@@ -312,7 +346,8 @@
     "Tier": "III",
     "Value": 0.1,
     "Icon": "regeneration.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/regeneration.png",
+    "Description": "Continuously regenerates a percentage of health every second."
   },
   {
     "Name": "Finesse",
@@ -321,7 +356,8 @@
     "Tier": "I",
     "Value": 0.15,
     "Icon": "finesse.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png",
+    "Description": "Increases melee attack accuracy and combo attack speed."
   },
   {
     "Name": "Finesse",
@@ -330,7 +366,8 @@
     "Tier": "II",
     "Value": 0.25,
     "Icon": "finesse.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png",
+    "Description": "Increases melee attack accuracy and combo attack speed."
   },
   {
     "Name": "Finesse",
@@ -339,7 +376,8 @@
     "Tier": "III",
     "Value": 0.35,
     "Icon": "finesse.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/finesse.png",
+    "Description": "Increases melee attack accuracy and combo attack speed."
   },
   {
     "Name": "Pyromancer",
@@ -348,7 +386,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "pyromancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png",
+    "Description": "Increases fire damage dealt and extends burn effect duration."
   },
   {
     "Name": "Pyromancer",
@@ -357,7 +396,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "pyromancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png",
+    "Description": "Increases fire damage dealt and extends burn effect duration."
   },
   {
     "Name": "Pyromancer",
@@ -366,7 +406,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "pyromancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pyromancer.png",
+    "Description": "Increases fire damage dealt and extends burn effect duration."
   },
   {
     "Name": "Projectile Protection",
@@ -375,7 +416,8 @@
     "Tier": "I",
     "Value": -0.1,
     "Icon": "projectile-protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png",
+    "Description": "Reduces damage taken from enemy ranged projectiles and arrows."
   },
   {
     "Name": "Projectile Protection",
@@ -384,7 +426,8 @@
     "Tier": "II",
     "Value": -0.15,
     "Icon": "projectile-protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png",
+    "Description": "Reduces damage taken from enemy ranged projectiles and arrows."
   },
   {
     "Name": "Projectile Protection",
@@ -393,7 +436,8 @@
     "Tier": "III",
     "Value": -0.2,
     "Icon": "projectile-protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/projectile-protection.png",
+    "Description": "Reduces damage taken from enemy ranged projectiles and arrows."
   },
   {
     "Name": "Sorcerer",
@@ -402,7 +446,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "sorcerer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png",
+    "Description": "Empowers magic artifacts, increasing damage and area of effect."
   },
   {
     "Name": "Sorcerer",
@@ -411,7 +456,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "sorcerer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png",
+    "Description": "Empowers magic artifacts, increasing damage and area of effect."
   },
   {
     "Name": "Sorcerer",
@@ -420,7 +466,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "sorcerer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sorcerer.png",
+    "Description": "Empowers magic artifacts, increasing damage and area of effect."
   },
   {
     "Name": "Electromancer",
@@ -429,7 +476,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "electromancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png",
+    "Description": "Increases lightning damage dealt by attacks, enchantments, and artifacts."
   },
   {
     "Name": "Electromancer",
@@ -438,7 +486,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "electromancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png",
+    "Description": "Increases lightning damage dealt by attacks, enchantments, and artifacts."
   },
   {
     "Name": "Electromancer",
@@ -447,7 +496,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "electromancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/electromancer.png",
+    "Description": "Increases lightning damage dealt by attacks, enchantments, and artifacts."
   },
   {
     "Name": "Soulmancer",
@@ -456,7 +506,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "soulmancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png",
+    "Description": "Increases damage dealt by soul artifacts and soul abilities."
   },
   {
     "Name": "Soulmancer",
@@ -465,7 +516,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "soulmancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png",
+    "Description": "Increases damage dealt by soul artifacts and soul abilities."
   },
   {
     "Name": "Soulmancer",
@@ -474,7 +526,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "soulmancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/soulmancer.png",
+    "Description": "Increases damage dealt by soul artifacts and soul abilities."
   },
   {
     "Name": "Venomancer",
@@ -483,7 +536,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "venomancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png",
+    "Description": "Increases poison damage dealt and extends poison duration on afflicted enemies."
   },
   {
     "Name": "Venomancer",
@@ -492,7 +546,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "venomancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png",
+    "Description": "Increases poison damage dealt and extends poison duration on afflicted enemies."
   },
   {
     "Name": "Venomancer",
@@ -501,7 +556,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "venomancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/venomancer.png",
+    "Description": "Increases poison damage dealt and extends poison duration on afflicted enemies."
   },
   {
     "Name": "Critical Edge",
@@ -510,7 +566,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "critical-edge.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png",
+    "Description": "Increases critical hit damage multiplier."
   },
   {
     "Name": "Critical Edge",
@@ -519,7 +576,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "critical-edge.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png",
+    "Description": "Increases critical hit damage multiplier."
   },
   {
     "Name": "Critical Edge",
@@ -528,7 +586,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "critical-edge.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png",
+    "Description": "Increases critical hit damage multiplier."
   },
   {
     "Name": "Critical Edge",
@@ -537,7 +596,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "critical-edge.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/critical-edge.png",
+    "Description": "Increases critical hit damage multiplier."
   },
   {
     "Name": "Precision",
@@ -546,7 +606,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "precision.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png",
+    "Description": "Increases critical strike chance on ranged attacks."
   },
   {
     "Name": "Precision",
@@ -555,7 +616,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "precision.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png",
+    "Description": "Increases critical strike chance on ranged attacks."
   },
   {
     "Name": "Precision",
@@ -564,7 +626,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "precision.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/precision.png",
+    "Description": "Increases critical strike chance on ranged attacks."
   },
   {
     "Name": "Strength",
@@ -573,7 +636,8 @@
     "Tier": "I",
     "Value": 0.15,
     "Icon": "strength.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png",
+    "Description": "Boosts physical attack power and melee stagger."
   },
   {
     "Name": "Strength",
@@ -582,7 +646,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "strength.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png",
+    "Description": "Boosts physical attack power and melee stagger."
   },
   {
     "Name": "Strength",
@@ -591,7 +656,8 @@
     "Tier": "III",
     "Value": 0.25,
     "Icon": "strength.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/strength.png",
+    "Description": "Boosts physical attack power and melee stagger."
   },
   {
     "Name": "Aim",
@@ -600,7 +666,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "aim.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png",
+    "Description": "Improves projectile zoom, velocity, and aiming accuracy."
   },
   {
     "Name": "Aim",
@@ -609,7 +676,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "aim.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png",
+    "Description": "Improves projectile zoom, velocity, and aiming accuracy."
   },
   {
     "Name": "Aim",
@@ -618,7 +686,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "aim.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/aim.png",
+    "Description": "Improves projectile zoom, velocity, and aiming accuracy."
   },
   {
     "Name": "Marksman",
@@ -627,7 +696,8 @@
     "Tier": "I",
     "Value": 0.15,
     "Icon": "marksman.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png",
+    "Description": "Increases ranged weapon damage and arrow flight velocity."
   },
   {
     "Name": "Marksman",
@@ -636,7 +706,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "marksman.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png",
+    "Description": "Increases ranged weapon damage and arrow flight velocity."
   },
   {
     "Name": "Marksman",
@@ -645,7 +716,8 @@
     "Tier": "III",
     "Value": 0.25,
     "Icon": "marksman.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/marksman.png",
+    "Description": "Increases ranged weapon damage and arrow flight velocity."
   },
   {
     "Name": "Momentum",
@@ -654,7 +726,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "momentum.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png",
+    "Description": "Consecutive attacks build momentum, increasing your attack speed with each strike."
   },
   {
     "Name": "Momentum",
@@ -663,7 +736,8 @@
     "Tier": "II",
     "Value": 0.3,
     "Icon": "momentum.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png",
+    "Description": "Consecutive attacks build momentum, increasing your attack speed with each strike."
   },
   {
     "Name": "Momentum",
@@ -672,7 +746,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "momentum.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/momentum.png",
+    "Description": "Consecutive attacks build momentum, increasing your attack speed with each strike."
   },
   {
     "Name": "Fletcher",
@@ -681,7 +756,8 @@
     "Tier": "I",
     "Value": -0.15,
     "Icon": "fletcher.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png",
+    "Description": "Grants a chance to replenish arrows upon hitting enemies."
   },
   {
     "Name": "Fletcher",
@@ -690,7 +766,8 @@
     "Tier": "II",
     "Value": -0.2,
     "Icon": "fletcher.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png",
+    "Description": "Grants a chance to replenish arrows upon hitting enemies."
   },
   {
     "Name": "Fletcher",
@@ -699,7 +776,8 @@
     "Tier": "III",
     "Value": -0.25,
     "Icon": "fletcher.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png",
+    "Description": "Grants a chance to replenish arrows upon hitting enemies."
   },
   {
     "Name": "Fletcher",
@@ -708,7 +786,8 @@
     "Tier": "III",
     "Value": -0.35,
     "Icon": "fletcher.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/fletcher.png",
+    "Description": "Grants a chance to replenish arrows upon hitting enemies."
   },
   {
     "Name": "Persistence",
@@ -717,7 +796,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "persistence.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png",
+    "Description": "Increases attack damage when health falls below 50%."
   },
   {
     "Name": "Persistence",
@@ -726,7 +806,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "persistence.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png",
+    "Description": "Increases attack damage when health falls below 50%."
   },
   {
     "Name": "Persistence",
@@ -735,7 +816,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "persistence.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/persistence.png",
+    "Description": "Increases attack damage when health falls below 50%."
   },
   {
     "Name": "Sharpshooter",
@@ -744,7 +826,8 @@
     "Tier": "I",
     "Value": 0.3,
     "Icon": "sharpshooter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png",
+    "Description": "Fully charged ranged shots deal bonus damage and knock back targets."
   },
   {
     "Name": "Sharpshooter",
@@ -753,7 +836,8 @@
     "Tier": "II",
     "Value": 0.35,
     "Icon": "sharpshooter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png",
+    "Description": "Fully charged ranged shots deal bonus damage and knock back targets."
   },
   {
     "Name": "Sharpshooter",
@@ -762,7 +846,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "sharpshooter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sharpshooter.png",
+    "Description": "Fully charged ranged shots deal bonus damage and knock back targets."
   },
   {
     "Name": "Totem Radius",
@@ -771,7 +856,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "totem-radius.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png",
+    "Description": "Expands the radius and effective area of all deployed totems."
   },
   {
     "Name": "Totem Radius",
@@ -780,7 +866,8 @@
     "Tier": "II",
     "Value": 0.3,
     "Icon": "totem-radius.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png",
+    "Description": "Expands the radius and effective area of all deployed totems."
   },
   {
     "Name": "Totem Radius",
@@ -789,7 +876,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "totem-radius.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/totem-radius.png",
+    "Description": "Expands the radius and effective area of all deployed totems."
   },
   {
     "Name": "Elemental Protection",
@@ -798,7 +886,8 @@
     "Tier": "I",
     "Value": -0.1,
     "Icon": "elemental-protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png",
+    "Description": "Reduces incoming damage taken from fire, lightning, poison, and frost."
   },
   {
     "Name": "Elemental Protection",
@@ -807,7 +896,8 @@
     "Tier": "II",
     "Value": -0.15,
     "Icon": "elemental-protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png",
+    "Description": "Reduces incoming damage taken from fire, lightning, poison, and frost."
   },
   {
     "Name": "Elemental Protection",
@@ -816,7 +906,8 @@
     "Tier": "III",
     "Value": -0.2,
     "Icon": "elemental-protection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/elemental-protection.png",
+    "Description": "Reduces incoming damage taken from fire, lightning, poison, and frost."
   },
   {
     "Name": "Bully",
@@ -825,7 +916,8 @@
     "Tier": "I",
     "Value": 0.25,
     "Icon": "bully.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png",
+    "Description": "Deals bonus damage against enemies that are stunned, frozen, or slowed."
   },
   {
     "Name": "Bully",
@@ -834,7 +926,8 @@
     "Tier": "II",
     "Value": 0.35,
     "Icon": "bully.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png",
+    "Description": "Deals bonus damage against enemies that are stunned, frozen, or slowed."
   },
   {
     "Name": "Bully",
@@ -843,7 +936,8 @@
     "Tier": "III",
     "Value": 0.5,
     "Icon": "bully.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bully.png",
+    "Description": "Deals bonus damage against enemies that are stunned, frozen, or slowed."
   },
   {
     "Name": "Deflection",
@@ -852,7 +946,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "deflection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png",
+    "Description": "Grants a chance to deflect incoming projectile attacks back at enemies."
   },
   {
     "Name": "Deflection",
@@ -861,7 +956,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "deflection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png",
+    "Description": "Grants a chance to deflect incoming projectile attacks back at enemies."
   },
   {
     "Name": "Deflection",
@@ -870,7 +966,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "deflection.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/deflection.png",
+    "Description": "Grants a chance to deflect incoming projectile attacks back at enemies."
   },
   {
     "Name": "Looter",
@@ -879,7 +976,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "looter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png",
+    "Description": "Increases the drop rate of consumables, potions, and items from defeated enemies."
   },
   {
     "Name": "Looter",
@@ -888,7 +986,8 @@
     "Tier": "II",
     "Value": 0.4,
     "Icon": "looter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png",
+    "Description": "Increases the drop rate of consumables, potions, and items from defeated enemies."
   },
   {
     "Name": "Looter",
@@ -897,7 +996,8 @@
     "Tier": "III",
     "Value": 0.6,
     "Icon": "looter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/looter.png",
+    "Description": "Increases the drop rate of consumables, potions, and items from defeated enemies."
   },
   {
     "Name": "Raider",
@@ -906,7 +1006,8 @@
     "Tier": "I",
     "Value": 0.01,
     "Icon": "raider.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png",
+    "Description": "Increases emerald collection yield from chests and fallen enemies."
   },
   {
     "Name": "Raider",
@@ -915,7 +1016,8 @@
     "Tier": "II",
     "Value": 0.02,
     "Icon": "raider.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png",
+    "Description": "Increases emerald collection yield from chests and fallen enemies."
   },
   {
     "Name": "Raider",
@@ -924,7 +1026,8 @@
     "Tier": "III",
     "Value": 0.03,
     "Icon": "raider.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/raider.png",
+    "Description": "Increases emerald collection yield from chests and fallen enemies."
   },
   {
     "Name": "Prowler",
@@ -933,7 +1036,8 @@
     "Tier": "I",
     "Value": 0.15,
     "Icon": "prowler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png",
+    "Description": "Increases movement speed while sneaking or in stealth mode."
   },
   {
     "Name": "Prowler",
@@ -942,7 +1046,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "prowler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png",
+    "Description": "Increases movement speed while sneaking or in stealth mode."
   },
   {
     "Name": "Prowler",
@@ -951,7 +1056,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "prowler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prowler.png",
+    "Description": "Increases movement speed while sneaking or in stealth mode."
   },
   {
     "Name": "Assassin",
@@ -960,7 +1066,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "assassin.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png",
+    "Description": "Increases the likelihood of landing lethal critical strikes."
   },
   {
     "Name": "Assassin",
@@ -969,7 +1076,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "assassin.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png",
+    "Description": "Increases the likelihood of landing lethal critical strikes."
   },
   {
     "Name": "Assassin",
@@ -978,7 +1086,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "assassin.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/assassin.png",
+    "Description": "Increases the likelihood of landing lethal critical strikes."
   },
   {
     "Name": "Brawler",
@@ -987,7 +1096,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "brawler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png",
+    "Description": "Widens the reach and damage of sweeping melee attacks against groups of mobs."
   },
   {
     "Name": "Brawler",
@@ -996,7 +1106,8 @@
     "Tier": "II",
     "Value": 0.3,
     "Icon": "brawler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png",
+    "Description": "Widens the reach and damage of sweeping melee attacks against groups of mobs."
   },
   {
     "Name": "Brawler",
@@ -1005,7 +1116,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "brawler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/brawler.png",
+    "Description": "Widens the reach and damage of sweeping melee attacks against groups of mobs."
   },
   {
     "Name": "Prickly",
@@ -1014,7 +1126,8 @@
     "Tier": "I",
     "Value": 0.5,
     "Icon": "prickly.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png",
+    "Description": "Reflects a portion of damage taken back to the attacker."
   },
   {
     "Name": "Prickly",
@@ -1023,7 +1136,8 @@
     "Tier": "II",
     "Value": 0.65,
     "Icon": "prickly.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png",
+    "Description": "Reflects a portion of damage taken back to the attacker."
   },
   {
     "Name": "Prickly",
@@ -1032,7 +1146,8 @@
     "Tier": "III",
     "Value": 0.8,
     "Icon": "prickly.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prickly.png",
+    "Description": "Reflects a portion of damage taken back to the attacker."
   },
   {
     "Name": "Potion Maker",
@@ -1041,7 +1156,8 @@
     "Tier": "I",
     "Value": -0.05,
     "Icon": "potion-maker.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png",
+    "Description": "Decreases the cooldown period between health potion uses."
   },
   {
     "Name": "Potion Maker",
@@ -1050,7 +1166,8 @@
     "Tier": "II",
     "Value": -0.1,
     "Icon": "potion-maker.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png",
+    "Description": "Decreases the cooldown period between health potion uses."
   },
   {
     "Name": "Potion Maker",
@@ -1059,7 +1176,8 @@
     "Tier": "III",
     "Value": -0.2,
     "Icon": "potion-maker.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/potion-maker.png",
+    "Description": "Decreases the cooldown period between health potion uses."
   },
   {
     "Name": "Cryomancer",
@@ -1068,7 +1186,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "cryomancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png",
+    "Description": "Increases frost damage dealt and prolongs chill and freeze durations."
   },
   {
     "Name": "Cryomancer",
@@ -1077,7 +1196,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "cryomancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png",
+    "Description": "Increases frost damage dealt and prolongs chill and freeze durations."
   },
   {
     "Name": "Cryomancer",
@@ -1086,7 +1206,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "cryomancer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/cryomancer.png",
+    "Description": "Increases frost damage dealt and prolongs chill and freeze durations."
   },
   {
     "Name": "Point Blank",
@@ -1095,7 +1216,8 @@
     "Tier": "I",
     "Value": 0.25,
     "Icon": "point-blank.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png",
+    "Description": "Arrows and ranged attacks deal significantly more damage to enemies at close range."
   },
   {
     "Name": "Point Blank",
@@ -1104,7 +1226,8 @@
     "Tier": "II",
     "Value": 0.5,
     "Icon": "point-blank.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png",
+    "Description": "Arrows and ranged attacks deal significantly more damage to enemies at close range."
   },
   {
     "Name": "Point Blank",
@@ -1113,7 +1236,8 @@
     "Tier": "III",
     "Value": 0.75,
     "Icon": "point-blank.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/point-blank.png",
+    "Description": "Arrows and ranged attacks deal significantly more damage to enemies at close range."
   },
   {
     "Name": "Sniper",
@@ -1122,7 +1246,8 @@
     "Tier": "I",
     "Value": 0.25,
     "Icon": "sniper.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png",
+    "Description": "Ranged attacks deal exponentially more damage the further the target is."
   },
   {
     "Name": "Sniper",
@@ -1131,7 +1256,8 @@
     "Tier": "II",
     "Value": 0.5,
     "Icon": "sniper.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png",
+    "Description": "Ranged attacks deal exponentially more damage the further the target is."
   },
   {
     "Name": "Sniper",
@@ -1140,7 +1266,8 @@
     "Tier": "III",
     "Value": 0.75,
     "Icon": "sniper.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/sniper.png",
+    "Description": "Ranged attacks deal exponentially more damage the further the target is."
   },
   {
     "Name": "Spiritual",
@@ -1149,7 +1276,8 @@
     "Tier": "I",
     "Value": 1.25,
     "Icon": "spiritual.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png",
+    "Description": "Increases maximum soul storage capacity."
   },
   {
     "Name": "Spiritual",
@@ -1158,7 +1286,8 @@
     "Tier": "II",
     "Value": 1.3,
     "Icon": "spiritual.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png",
+    "Description": "Increases maximum soul storage capacity."
   },
   {
     "Name": "Spiritual",
@@ -1167,7 +1296,8 @@
     "Tier": "III",
     "Value": 1.35,
     "Icon": "spiritual.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/spiritual.png",
+    "Description": "Increases maximum soul storage capacity."
   },
   {
     "Name": "Reaper",
@@ -1176,7 +1306,8 @@
     "Tier": "I",
     "Value": 0.25,
     "Icon": "reaper.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png",
+    "Description": "Increases soul gathering rate when defeating enemies."
   },
   {
     "Name": "Reaper",
@@ -1185,7 +1316,8 @@
     "Tier": "II",
     "Value": 0.35,
     "Icon": "reaper.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png",
+    "Description": "Increases soul gathering rate when defeating enemies."
   },
   {
     "Name": "Reaper",
@@ -1194,7 +1326,8 @@
     "Tier": "III",
     "Value": 0.45,
     "Icon": "reaper.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/reaper.png",
+    "Description": "Increases soul gathering rate when defeating enemies."
   },
   {
     "Name": "Acrobat",
@@ -1203,7 +1336,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "acrobat.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png",
+    "Description": "Reduces roll cooldown time, allowing more frequent dodges."
   },
   {
     "Name": "Acrobat",
@@ -1212,7 +1346,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "acrobat.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png",
+    "Description": "Reduces roll cooldown time, allowing more frequent dodges."
   },
   {
     "Name": "Acrobat",
@@ -1221,7 +1356,8 @@
     "Tier": "III",
     "Value": 0.25,
     "Icon": "acrobat.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/acrobat.png",
+    "Description": "Reduces roll cooldown time, allowing more frequent dodges."
   },
   {
     "Name": "Alchemist",
@@ -1230,7 +1366,8 @@
     "Tier": "I",
     "Value": 0.01,
     "Icon": "alchemist.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png",
+    "Description": "Each soul absorbed restores a portion of your maximum health."
   },
   {
     "Name": "Alchemist",
@@ -1239,7 +1376,8 @@
     "Tier": "II",
     "Value": 0.03,
     "Icon": "alchemist.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png",
+    "Description": "Each soul absorbed restores a portion of your maximum health."
   },
   {
     "Name": "Alchemist",
@@ -1248,7 +1386,8 @@
     "Tier": "III",
     "Value": 0.05,
     "Icon": "alchemist.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/alchemist.png",
+    "Description": "Each soul absorbed restores a portion of your maximum health."
   },
   {
     "Name": "Ranger",
@@ -1257,7 +1396,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "ranger.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png",
+    "Description": "Grants a chance to fire multiple arrows simultaneously with each shot."
   },
   {
     "Name": "Ranger",
@@ -1266,7 +1406,8 @@
     "Tier": "II",
     "Value": 0.3,
     "Icon": "ranger.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png",
+    "Description": "Grants a chance to fire multiple arrows simultaneously with each shot."
   },
   {
     "Name": "Ranger",
@@ -1275,7 +1416,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "ranger.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ranger.png",
+    "Description": "Grants a chance to fire multiple arrows simultaneously with each shot."
   },
   {
     "Name": "Ally",
@@ -1284,7 +1426,8 @@
     "Tier": "I",
     "Value": 0.15,
     "Icon": "ally.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png",
+    "Description": "Emits an empowering aura that boosts damage and defense for you and nearby allies."
   },
   {
     "Name": "Ally",
@@ -1293,7 +1436,8 @@
     "Tier": "II",
     "Value": 0.3,
     "Icon": "ally.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png",
+    "Description": "Emits an empowering aura that boosts damage and defense for you and nearby allies."
   },
   {
     "Name": "Ally",
@@ -1302,7 +1446,8 @@
     "Tier": "III",
     "Value": 0.5,
     "Icon": "ally.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/ally.png",
+    "Description": "Emits an empowering aura that boosts damage and defense for you and nearby allies."
   },
   {
     "Name": "Resilience",
@@ -1311,7 +1456,8 @@
     "Tier": "I",
     "Value": -0.2,
     "Icon": "resilience.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png",
+    "Description": "Reduces the duration of harmful status effects inflicted on you."
   },
   {
     "Name": "Resilience",
@@ -1320,7 +1466,8 @@
     "Tier": "II",
     "Value": -0.25,
     "Icon": "resilience.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png",
+    "Description": "Reduces the duration of harmful status effects inflicted on you."
   },
   {
     "Name": "Resilience",
@@ -1329,7 +1476,8 @@
     "Tier": "III",
     "Value": -0.3,
     "Icon": "resilience.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/resilience.png",
+    "Description": "Reduces the duration of harmful status effects inflicted on you."
   },
   {
     "Name": "Tainted",
@@ -1338,7 +1486,8 @@
     "Tier": "I",
     "Value": 0.4,
     "Icon": "tainted.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png",
+    "Description": "Defeated enemies explode in a toxic burst, damaging nearby adversaries."
   },
   {
     "Name": "Tainted",
@@ -1347,7 +1496,8 @@
     "Tier": "II",
     "Value": 0.6,
     "Icon": "tainted.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png",
+    "Description": "Defeated enemies explode in a toxic burst, damaging nearby adversaries."
   },
   {
     "Name": "Tainted",
@@ -1356,7 +1506,8 @@
     "Tier": "III",
     "Value": 0.8,
     "Icon": "tainted.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/tainted.png",
+    "Description": "Defeated enemies explode in a toxic burst, damaging nearby adversaries."
   },
   {
     "Name": "Shackler",
@@ -1365,7 +1516,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "shackler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png",
+    "Description": "Attacks have a chance to chain groups of enemies together, locking them in place."
   },
   {
     "Name": "Shackler",
@@ -1374,7 +1526,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "shackler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png",
+    "Description": "Attacks have a chance to chain groups of enemies together, locking them in place."
   },
   {
     "Name": "Shackler",
@@ -1383,7 +1536,8 @@
     "Tier": "III",
     "Value": 0.25,
     "Icon": "shackler.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shackler.png",
+    "Description": "Attacks have a chance to chain groups of enemies together, locking them in place."
   },
   {
     "Name": "Healer",
@@ -1392,7 +1546,8 @@
     "Tier": "I",
     "Value": 0.25,
     "Icon": "healer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png",
+    "Description": "Increases all healing received and given to allies."
   },
   {
     "Name": "Healer",
@@ -1401,7 +1556,8 @@
     "Tier": "II",
     "Value": 0.35,
     "Icon": "healer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png",
+    "Description": "Increases all healing received and given to allies."
   },
   {
     "Name": "Healer",
@@ -1410,7 +1566,8 @@
     "Tier": "III",
     "Value": 0.5,
     "Icon": "healer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png",
+    "Description": "Increases all healing received and given to allies."
   },
   {
     "Name": "Healer",
@@ -1419,7 +1576,8 @@
     "Tier": "III",
     "Value": 0.5,
     "Icon": "healer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/healer.png",
+    "Description": "Increases all healing received and given to allies."
   },
   {
     "Name": "Stealth",
@@ -1428,7 +1586,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "stealth.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png",
+    "Description": "Rolling or sprinting briefly shrouds you in shadows, making you harder to detect."
   },
   {
     "Name": "Stealth",
@@ -1437,7 +1596,8 @@
     "Tier": "II",
     "Value": 0.25,
     "Icon": "stealth.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png",
+    "Description": "Rolling or sprinting briefly shrouds you in shadows, making you harder to detect."
   },
   {
     "Name": "Stealth",
@@ -1446,7 +1606,8 @@
     "Tier": "III",
     "Value": 0.35,
     "Icon": "stealth.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png",
+    "Description": "Rolling or sprinting briefly shrouds you in shadows, making you harder to detect."
   },
   {
     "Name": "Stealth",
@@ -1455,7 +1616,8 @@
     "Tier": "III",
     "Value": 0.45,
     "Icon": "stealth.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/stealth.png",
+    "Description": "Rolling or sprinting briefly shrouds you in shadows, making you harder to detect."
   },
   {
     "Name": "Prospector",
@@ -1464,7 +1626,8 @@
     "Tier": "I",
     "Value": 0.05,
     "Icon": "prospector.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png",
+    "Description": "Increases the chance of finding emeralds when defeating mobs."
   },
   {
     "Name": "Prospector",
@@ -1473,7 +1636,8 @@
     "Tier": "II",
     "Value": 0.1,
     "Icon": "prospector.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png",
+    "Description": "Increases the chance of finding emeralds when defeating mobs."
   },
   {
     "Name": "Prospector",
@@ -1482,7 +1646,8 @@
     "Tier": "III",
     "Value": 0.15,
     "Icon": "prospector.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/prospector.png",
+    "Description": "Increases the chance of finding emeralds when defeating mobs."
   },
   {
     "Name": "Duelist",
@@ -1491,7 +1656,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "duelist.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png",
+    "Description": "Deals extra damage when engaging a single isolated enemy."
   },
   {
     "Name": "Duelist",
@@ -1500,7 +1666,8 @@
     "Tier": "II",
     "Value": 0.25,
     "Icon": "duelist.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png",
+    "Description": "Deals extra damage when engaging a single isolated enemy."
   },
   {
     "Name": "Duelist",
@@ -1509,7 +1676,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "duelist.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png",
+    "Description": "Deals extra damage when engaging a single isolated enemy."
   },
   {
     "Name": "Duelist",
@@ -1518,7 +1686,8 @@
     "Tier": "III",
     "Value": 0.4,
     "Icon": "duelist.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/duelist.png",
+    "Description": "Deals extra damage when engaging a single isolated enemy."
   },
   {
     "Name": "Luck",
@@ -1527,7 +1696,8 @@
     "Tier": "I",
     "Value": 0.1,
     "Icon": "luck.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png",
+    "Description": "Increases luck, improving the chances of finding rare and unique equipment."
   },
   {
     "Name": "Luck",
@@ -1536,7 +1706,8 @@
     "Tier": "II",
     "Value": 0.15,
     "Icon": "luck.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png",
+    "Description": "Increases luck, improving the chances of finding rare and unique equipment."
   },
   {
     "Name": "Luck",
@@ -1545,7 +1716,8 @@
     "Tier": "III",
     "Value": 0.2,
     "Icon": "luck.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/luck.png",
+    "Description": "Increases luck, improving the chances of finding rare and unique equipment."
   },
   {
     "Name": "Pack Leader",
@@ -1554,7 +1726,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "pack-leader.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png",
+    "Description": "Increases the damage, movement speed, and resilience of summoned companions."
   },
   {
     "Name": "Pack Leader",
@@ -1563,7 +1736,8 @@
     "Tier": "II",
     "Value": 0.25,
     "Icon": "pack-leader.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png",
+    "Description": "Increases the damage, movement speed, and resilience of summoned companions."
   },
   {
     "Name": "Pack Leader",
@@ -1572,7 +1746,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "pack-leader.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/pack-leader.png",
+    "Description": "Increases the damage, movement speed, and resilience of summoned companions."
   },
   {
     "Name": "Bowyer",
@@ -1581,7 +1756,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "bowyer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png",
+    "Description": "Rolling discharges a burst of arrows in all directions."
   },
   {
     "Name": "Bowyer",
@@ -1590,7 +1766,8 @@
     "Tier": "II",
     "Value": 0.25,
     "Icon": "bowyer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png",
+    "Description": "Rolling discharges a burst of arrows in all directions."
   },
   {
     "Name": "Bowyer",
@@ -1599,7 +1776,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "bowyer.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bowyer.png",
+    "Description": "Rolling discharges a burst of arrows in all directions."
   },
   {
     "Name": "Knockback",
@@ -1608,7 +1786,8 @@
     "Tier": "I",
     "Value": 0.15,
     "Icon": "knockback.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png",
+    "Description": "Increases the distance enemies are pushed back when struck."
   },
   {
     "Name": "Knockback",
@@ -1617,7 +1796,8 @@
     "Tier": "II",
     "Value": 0.2,
     "Icon": "knockback.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png",
+    "Description": "Increases the distance enemies are pushed back when struck."
   },
   {
     "Name": "Knockback",
@@ -1626,7 +1806,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "knockback.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/knockback.png",
+    "Description": "Increases the distance enemies are pushed back when struck."
   },
   {
     "Name": "Shepherd",
@@ -1635,7 +1816,8 @@
     "Tier": "I",
     "Value": -0.05,
     "Icon": "shepherd.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png",
+    "Description": "Increases health and defense of sheep, llamas, and other pasture companions."
   },
   {
     "Name": "Shepherd",
@@ -1644,7 +1826,8 @@
     "Tier": "II",
     "Value": -0.1,
     "Icon": "shepherd.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png",
+    "Description": "Increases health and defense of sheep, llamas, and other pasture companions."
   },
   {
     "Name": "Shepherd",
@@ -1653,7 +1836,8 @@
     "Tier": "III",
     "Value": -0.15,
     "Icon": "shepherd.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/shepherd.png",
+    "Description": "Increases health and defense of sheep, llamas, and other pasture companions."
   },
   {
     "Name": "Veterinarian",
@@ -1662,7 +1846,8 @@
     "Tier": "I",
     "Value": -0.05,
     "Icon": "veterinarian.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png",
+    "Description": "Healing you receive is partially shared with all active companions."
   },
   {
     "Name": "Veterinarian",
@@ -1671,7 +1856,8 @@
     "Tier": "II",
     "Value": -0.1,
     "Icon": "veterinarian.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png",
+    "Description": "Healing you receive is partially shared with all active companions."
   },
   {
     "Name": "Veterinarian",
@@ -1680,7 +1866,8 @@
     "Tier": "III",
     "Value": -0.15,
     "Icon": "veterinarian.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/veterinarian.png",
+    "Description": "Healing you receive is partially shared with all active companions."
   },
   {
     "Name": "Bounty Hunter",
@@ -1689,7 +1876,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "bounty-hunter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png",
+    "Description": "Deals increased damage against enemies that have already taken damage."
   },
   {
     "Name": "Bounty Hunter",
@@ -1698,7 +1886,8 @@
     "Tier": "II",
     "Value": 0.25,
     "Icon": "bounty-hunter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png",
+    "Description": "Deals increased damage against enemies that have already taken damage."
   },
   {
     "Name": "Bounty Hunter",
@@ -1707,7 +1896,8 @@
     "Tier": "III",
     "Value": 0.3,
     "Icon": "bounty-hunter.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/bounty-hunter.png",
+    "Description": "Deals increased damage against enemies that have already taken damage."
   },
   {
     "Name": "Vanguard",
@@ -1716,7 +1906,8 @@
     "Tier": "I",
     "Value": 0.2,
     "Icon": "vanguard.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png",
+    "Description": "Increases attack power and armor when surrounded by multiple enemies."
   },
   {
     "Name": "Vanguard",
@@ -1725,7 +1916,8 @@
     "Tier": "II",
     "Value": 0.35,
     "Icon": "vanguard.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png",
+    "Description": "Increases attack power and armor when surrounded by multiple enemies."
   },
   {
     "Name": "Vanguard",
@@ -1734,7 +1926,8 @@
     "Tier": "III",
     "Value": 0.5,
     "Icon": "vanguard.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/vanguard.png",
+    "Description": "Increases attack power and armor when surrounded by multiple enemies."
   },
   {
     "Name": "Quiver",
@@ -1743,7 +1936,8 @@
     "Tier": "I",
     "Value": 1.1,
     "Icon": "quiver.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png",
+    "Description": "Expands maximum quiver capacity, allowing you to carry more arrows."
   },
   {
     "Name": "Quiver",
@@ -1752,7 +1946,8 @@
     "Tier": "II",
     "Value": 1.15,
     "Icon": "quiver.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png",
+    "Description": "Expands maximum quiver capacity, allowing you to carry more arrows."
   },
   {
     "Name": "Quiver",
@@ -1761,6 +1956,7 @@
     "Tier": "III",
     "Value": 1.2,
     "Icon": "quiver.png",
-    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png"
+    "IconUrl": "https://www.dungeons.tools/images/d2/icons/effects/quiver.png",
+    "Description": "Expands maximum quiver capacity, allowing you to carry more arrows."
   }
 ]

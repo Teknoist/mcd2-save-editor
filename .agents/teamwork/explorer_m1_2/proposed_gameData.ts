@@ -53,14 +53,7 @@ export const EFFECT_LIST: EffectEntry[] = effectsData as EffectEntry[];
 // Lookup maps for O(1) access
 const gearByTag = new Map<string, GearEntry>(GEAR_LIST.map(g => [g.Tag, g]));
 const enchantByTag = new Map<string, EnchantEntry>(ENCHANT_LIST.map(e => [e.Tag, e]));
-// Map indexing both template tag (SW.EffectTemplate.*) and effect tag (SW.Effect.*)
-const effectByTag = new Map<string, EffectEntry>();
-for (const e of EFFECT_LIST) {
-  effectByTag.set(e.Tag, e);
-  if (e.Effect && !effectByTag.has(e.Effect)) {
-    effectByTag.set(e.Effect, e);
-  }
-}
+const effectByTag = new Map<string, EffectEntry>(EFFECT_LIST.map(e => [e.Tag, e]));
 
 export function getGear(tag: string): GearEntry | undefined {
   return gearByTag.get(tag);

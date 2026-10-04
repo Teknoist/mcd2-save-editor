@@ -14548,7 +14548,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Hold to channel soul energy, unleashing a fiery inferno that incinerates nearby foes."
   },
   {
     "Name": "Winter Staff",
