@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Name": "War Hammer",
     "Tag": "SW.Item.WarHammer",
@@ -38,7 +38,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "Its strikes send tremors through the earth and through your enemies' hearts."
   },
   {
     "Name": "Pike",
@@ -79,7 +80,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "Enemies won't want to get the wrong end of the stick when they run into you."
   },
   {
     "Name": "Sword",
@@ -132,7 +134,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "A classic sword used by heroes and survivors since the dawn of the Overworld."
   },
   {
     "Name": "Gauntlets",
@@ -185,7 +188,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "Prime Enchanter&#039;s Gauntlets"
   },
   {
     "Name": "Double Daggers",
@@ -229,7 +233,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "When one dagger just isn't fast enough."
   },
   {
     "Name": "Axe",
@@ -270,7 +275,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "Hunter&#039;s Hatchet"
   },
   {
     "Name": "Short Spear",
@@ -311,7 +317,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "With the right wielder, even a short spear can reach across dimensions."
   },
   {
     "Name": "Pickaxe",
@@ -355,7 +362,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "The Prospector&#039;s Pick"
   },
   {
     "Name": "Rapier",
@@ -408,7 +416,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A nimble and narrow blade that strikes with fierce ferocity."
   },
   {
     "Name": "Heartbreaker",
@@ -465,7 +474,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "Pyrotechnics · Unique"
   },
   {
     "Name": "Stormcaller",
@@ -519,7 +529,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "Electromancer · Unique"
   },
   {
     "Name": "The Burning Blade",
@@ -588,7 +599,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "A flame frozen into steel that erupts when you swing it."
   },
   {
     "Name": "Prime Enchanter's Gauntlets",
@@ -657,7 +669,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "Prime Enchanter&#039;s Gauntlets"
   },
   {
     "Name": "Venomous Fangs",
@@ -717,7 +730,8 @@
       "SW.EffectTemplate.Sharpness.I",
       "SW.EffectTemplate.Sharpness.II",
       "SW.EffectTemplate.Sharpness.III"
-    ]
+    ],
+    "Description": "QuestMeleeDaggersUnique_01"
   },
   {
     "Name": "Hunter's Hatchet",
@@ -774,7 +788,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "Hunter&#039;s Hatchet"
   },
   {
     "Name": "Spectral Spear",
@@ -831,7 +846,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A spear forged in ichor and possessed by souls that will burn all enemies you point at."
   },
   {
     "Name": "Redstone Wrecker",
@@ -888,7 +904,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "QuestMeleeGiantClubUnique_01"
   },
   {
     "Name": "The Prospector's Pick",
@@ -948,7 +965,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "The Prospector&#039;s Pick"
   },
   {
     "Name": "The Thousand Cuts",
@@ -1008,7 +1026,8 @@
       "SW.EffectTemplate.Sharpness.I",
       "SW.EffectTemplate.Sharpness.II",
       "SW.EffectTemplate.Sharpness.III"
-    ]
+    ],
+    "Description": "A nimble sword for the fencing virtuoso that strikes faster than other blades."
   },
   {
     "Name": "Claymore",
@@ -1067,7 +1086,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "A massive sword that rests easily in a righteous warrior&#039;s hands."
   },
   {
     "Name": "Greatsword",
@@ -1126,7 +1146,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "If your heart is just, even the greatest sword will feel light as a feather."
   },
   {
     "Name": "Wolf Claws",
@@ -1176,7 +1197,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A respectful offering from your wolf friends, for close combat beneath the full moon."
   },
   {
     "Name": "Glaive",
@@ -1217,7 +1239,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "A wise blacksmith once stuck a sword on top of a staff and the world has never been the same."
   },
   {
     "Name": "Battlestaff",
@@ -1255,7 +1278,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "With extra weights on the ends for striking fear into your enemies."
   },
   {
     "Name": "Meat Cleaver",
@@ -1302,7 +1326,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A reliable kitchen cleaver repurposed for serving up justice."
   },
   {
     "Name": "Double Sickles",
@@ -1352,7 +1377,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "Harvest tools from Honeycomb Fields, repurposed for reaping illagers and monsters."
   },
   {
     "Name": "Scythe",
@@ -1390,7 +1416,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "Fit only for toiling warriors, the scythe truly separates the wheat from the chaff."
   },
   {
     "Name": "Clobberer",
@@ -1431,7 +1458,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "For those who prefer a less subtle approach to problem solving."
   },
   {
     "Name": "Cookiecutter",
@@ -1484,7 +1512,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "CurvedGreatsword_Unique1"
   },
   {
     "Name": "Mob Mallet",
@@ -1525,7 +1554,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "QuestMeleeGiantMallet"
   },
   {
     "Name": "Longsword",
@@ -1563,7 +1593,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "StraightSword_Unique1"
   },
   {
     "Name": "Riftslasher",
@@ -1616,7 +1647,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "CurvedLongsword_Unique1"
   },
   {
     "Name": "Shovel",
@@ -1666,7 +1698,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "When planning for revenge, you must dig two graves: one for your enemy. And one... for your other enemy."
   },
   {
     "Name": "Mace",
@@ -1713,7 +1746,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "A brutal tool of war, but what it lacks in finesse it makes up for in power."
   },
   {
     "Name": "Twilight Dagger",
@@ -1751,7 +1785,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A must-have in any rogue&#039;s inventory."
   },
   {
     "Name": "Sabre",
@@ -1813,7 +1848,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "A slightly curved sword for when you want to paint with broad strokes."
   },
   {
     "Name": "Battle Hammer",
@@ -1863,7 +1899,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "Strike while the iron is still hot."
   },
   {
     "Name": "Tidal Sickle",
@@ -1901,7 +1938,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A harvest tool for the new dimension, perfect for reaping souls."
   },
   {
     "Name": "Greataxe",
@@ -1963,7 +2001,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "A good axe settles for having a blade on one side. This is no goodaxe."
   },
   {
     "Name": "Slaymore",
@@ -2038,7 +2077,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "QuestMeleeClaymoreUnique_01"
   },
   {
     "Name": "The Darkshard",
@@ -2113,7 +2153,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "A legendary sword forged in the Deep Dark with amethyst alloy in the blade."
   },
   {
     "Name": "Sculker Claws",
@@ -2179,7 +2220,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "QuestMeleeClawsUnique_01"
   },
   {
     "Name": "Golden Glaive",
@@ -2236,7 +2278,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "A glaive of pure gold for the brave warrior who leads the charge."
   },
   {
     "Name": "Elemental Staff",
@@ -2290,7 +2333,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A powerful staff that unleashes the elements of fire, ice, poison and electricity on your enemies."
   },
   {
     "Name": "Cacaphonous Cleaver",
@@ -2353,7 +2397,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A mystical meat cleaver that serves souls for dessert."
   },
   {
     "Name": "Sift Sickles",
@@ -2419,7 +2464,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "QuestMeleeSicklesUnique_01"
   },
   {
     "Name": "Soul Reaper",
@@ -2473,7 +2519,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "QuestMeleeScytheUnique_01"
   },
   {
     "Name": "Lullaby Blade",
@@ -2533,7 +2580,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "QuestMeleeCurvedGreatswordUnique_01"
   },
   {
     "Name": "Monster Masher",
@@ -2590,7 +2638,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "A mallet made from humbler husk that guards as hard as it hits."
   },
   {
     "Name": "Frostbiter",
@@ -2644,7 +2693,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "A frost-infused longsword fit only for the coolest of warriors."
   },
   {
     "Name": "Pride of the Plains",
@@ -2713,7 +2763,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "QuestMeleeCurvedLongswordUnique_01_0"
   },
   {
     "Name": "Diamond Shovel",
@@ -2779,7 +2830,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "A durable diamond shovel enchanted with the power to blast enemies away."
   },
   {
     "Name": "Carapace Mace",
@@ -2842,7 +2894,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "Hard as nails but light as a feather, this mace is perfect for rolling and jumping attacks."
   },
   {
     "Name": "Sculker's Bane",
@@ -2905,7 +2958,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "QuestMeleeDaggerUnique_)1"
   },
   {
     "Name": "Rascal's Razor",
@@ -2974,7 +3028,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "QuestMeleeSabreUnique_01"
   },
   {
     "Name": "Emerald Hammer",
@@ -3040,7 +3095,8 @@
       "SW.EffectTemplate.SweepingEdge.I",
       "SW.EffectTemplate.SweepingEdge.II",
       "SW.EffectTemplate.SweepingEdge.III"
-    ]
+    ],
+    "Description": "QuestMeleeHammerUnique_01"
   },
   {
     "Name": "Lunar Sickle",
@@ -3094,7 +3150,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "Leave your enemies reeling and ripe for the reaping."
   },
   {
     "Name": "Awesomeaxe",
@@ -3172,7 +3229,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "Strengthening Hit · Unique"
   },
   {
     "Name": "Bow",
@@ -3207,7 +3265,8 @@
       "SW.EffectTemplate.Power.I",
       "SW.EffectTemplate.Power.II",
       "SW.EffectTemplate.Power.III"
-    ]
+    ],
+    "Description": "Ranger&#039;s Promise"
   },
   {
     "Name": "Crossbow",
@@ -3248,7 +3307,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "The ranged weapon of choice for the Pillager warriors."
   },
   {
     "Name": "Shortbow",
@@ -3301,7 +3361,8 @@
       "SW.EffectTemplate.Supercharge.I",
       "SW.EffectTemplate.Supercharge.II",
       "SW.EffectTemplate.Supercharge.III"
-    ]
+    ],
+    "Description": "A shorter, weaker bow with a faster fire rate and quicker charge time."
   },
   {
     "Name": "Trickbow",
@@ -3342,7 +3403,8 @@
       "SW.EffectTemplate.Power.I",
       "SW.EffectTemplate.Power.II",
       "SW.EffectTemplate.Power.III"
-    ]
+    ],
+    "Description": "For the trick shooter who likes to roll, jump, and shoot ricocheting arrows."
   },
   {
     "Name": "Longbow",
@@ -3392,7 +3454,8 @@
       "SW.EffectTemplate.Supercharge.I",
       "SW.EffectTemplate.Supercharge.II",
       "SW.EffectTemplate.Supercharge.III"
-    ]
+    ],
+    "Description": "Creaking&#039;s Reach"
   },
   {
     "Name": "Powerbow",
@@ -3448,7 +3511,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "For the patient ranger who doesn't like to waste arrows."
   },
   {
     "Name": "Scatter Crossbow",
@@ -3495,7 +3559,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "ScatterCrossbow_Unique1"
   },
   {
     "Name": "Heavy Crossbow",
@@ -3542,7 +3607,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "HeavyCrossbow_Unique1"
   },
   {
     "Name": "Dual Crossbows",
@@ -3586,7 +3652,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "When one crossbow just isn't enough."
   },
   {
     "Name": "Rapid Crossbow",
@@ -3636,7 +3703,8 @@
       "SW.EffectTemplate.Sniper.I",
       "SW.EffectTemplate.Sniper.II",
       "SW.EffectTemplate.Sniper.III"
-    ]
+    ],
+    "Description": "RapidCrossbow_Unique1"
   },
   {
     "Name": "Ranger's Promise",
@@ -3687,7 +3755,8 @@
       "SW.EffectTemplate.Power.I",
       "SW.EffectTemplate.Power.II",
       "SW.EffectTemplate.Power.III"
-    ]
+    ],
+    "Description": "Ranger&#039;s Promise"
   },
   {
     "Name": "The Shackler",
@@ -3744,7 +3813,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "QuestRangedCrossbowUnique_01"
   },
   {
     "Name": "Shooting Star",
@@ -3813,7 +3883,8 @@
       "SW.EffectTemplate.Supercharge.I",
       "SW.EffectTemplate.Supercharge.II",
       "SW.EffectTemplate.Supercharge.III"
-    ]
+    ],
+    "Description": "When you wish upon this star, you will evade enemy projectiles and shoot back."
   },
   {
     "Name": "Phantom Wing",
@@ -3870,7 +3941,8 @@
       "SW.EffectTemplate.Power.I",
       "SW.EffectTemplate.Power.II",
       "SW.EffectTemplate.Power.III"
-    ]
+    ],
+    "Description": "QuestRangedTrickbowUnique_01"
   },
   {
     "Name": "Creaking's Reach",
@@ -3936,7 +4008,8 @@
       "SW.EffectTemplate.Supercharge.I",
       "SW.EffectTemplate.Supercharge.II",
       "SW.EffectTemplate.Supercharge.III"
-    ]
+    ],
+    "Description": "Creaking&#039;s Reach"
   },
   {
     "Name": "Paragon",
@@ -4008,7 +4081,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "QuestRangedPowerBowUnique_01"
   },
   {
     "Name": "Harp Crossbow",
@@ -4071,7 +4145,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "QuestRangedScatterUnique_01"
   },
   {
     "Name": "The Close Ranger",
@@ -4134,7 +4209,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "Judge your enemies up close and personal."
   },
   {
     "Name": "The Cross Pollinator",
@@ -4200,7 +4276,8 @@
       "SW.EffectTemplate.Sniper.I",
       "SW.EffectTemplate.Sniper.II",
       "SW.EffectTemplate.Sniper.III"
-    ]
+    ],
+    "Description": "Cross-pollinate mobs with sharpened twigs and see what grows from their remains."
   },
   {
     "Name": "Greatbow",
@@ -4256,7 +4333,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "A powerful bow that fires with such force your arrows pierce even the toughest of enemies."
   },
   {
     "Name": "Double Crossers",
@@ -4316,7 +4394,8 @@
       "SW.EffectTemplate.SoulSiphon.I",
       "SW.EffectTemplate.SoulSiphon.II",
       "SW.EffectTemplate.SoulSiphon.III"
-    ]
+    ],
+    "Description": "These enchanted crossbows power up when you roll, firing with extra force."
   },
   {
     "Name": "Humbler Heartstring",
@@ -4394,7 +4473,8 @@
       "SW.EffectTemplate.Vanguard.I",
       "SW.EffectTemplate.Vanguard.II",
       "SW.EffectTemplate.Vanguard.III"
-    ]
+    ],
+    "Description": "This greatbow beats like the heart of a Humbler and pierces through the toughest husks."
   },
   {
     "Name": "Scamp Sneakers",
@@ -4432,7 +4512,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "For sneaking up on enemies and taking their loot."
   },
   {
     "Name": "Scamp Hood",
@@ -4470,7 +4551,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "For blending into dark corners and sneaking through the night."
   },
   {
     "Name": "Scamp Jacket",
@@ -4508,7 +4590,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "Holds extra space for keeping tricks up your sleeves."
   },
   {
     "Name": "Scamp Leggings",
@@ -4546,7 +4629,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "For when you need to leg it fast."
   },
   {
     "Name": "Nomad Boots",
@@ -4575,7 +4659,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "A pair of reliable boots for traversing the Overworld in search of adventure."
   },
   {
     "Name": "Nomad Chestplate",
@@ -4604,7 +4689,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "A sturdy chestplate for roaming the Overworld in search of justice."
   },
   {
     "Name": "Nomad Hood",
@@ -4633,7 +4719,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "A rainproof hood for wandering the Overworld in search of danger."
   },
   {
     "Name": "Nomad Leggings",
@@ -4662,7 +4749,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "VoyagerLeggings_Unique"
   },
   {
     "Name": "Ranger Jacket",
@@ -4697,7 +4785,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "RealmreacherChest_Unique"
   },
   {
     "Name": "Ranger Leggings",
@@ -4732,7 +4821,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "RealmreacherLeggings_Unique"
   },
   {
     "Name": "Ranger Boots",
@@ -4767,7 +4857,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "RealmreacherBoots_Unique"
   },
   {
     "Name": "Ranger Cap",
@@ -4802,7 +4893,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "RealmreacherHelmet_Unique"
   },
   {
     "Name": "Wolfpack Boots",
@@ -4834,7 +4926,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WolfclutchBoots_Unique"
   },
   {
     "Name": "Wolfpack Jacket",
@@ -4866,7 +4959,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WolfclutchChest_Unique"
   },
   {
     "Name": "Wolfpack Hood",
@@ -4898,7 +4992,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WolfclutchHelmet_Unique"
   },
   {
     "Name": "Wolfpack Leggings",
@@ -4930,7 +5025,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WolfclutchLeggings_Unique"
   },
   {
     "Name": "Bounty Hunter Boots",
@@ -4971,7 +5067,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "UndauntedBoots_Unique"
   },
   {
     "Name": "Bounty Hunter Helmet",
@@ -5012,7 +5109,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "UndauntedHelmet_Unique"
   },
   {
     "Name": "Bounty Hunter Shinguards",
@@ -5053,7 +5151,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Bounty Hunter Shinguards"
   },
   {
     "Name": "Bounty Hunter Chestplate",
@@ -5094,7 +5193,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Bounty Hunter Chestplate"
   },
   {
     "Name": "Steel Wool Sweater",
@@ -5162,7 +5262,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "FrostrimeChest_Unique"
   },
   {
     "Name": "Steel Wool Leggings",
@@ -5230,7 +5331,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "FrostrimeLeggings_Unique"
   },
   {
     "Name": "Steel Wool Boots",
@@ -5298,7 +5400,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "FrostrimeBoots_Unique"
   },
   {
     "Name": "Steel Wool Cap",
@@ -5366,7 +5469,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "FrostrimeHelmet_Unique"
   },
   {
     "Name": "Sculk Digger Boots",
@@ -5425,7 +5529,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Twisted Warden Sneakers"
   },
   {
     "Name": "Sculk Digger Robe",
@@ -5484,7 +5589,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "QuestArmourCaveCrawler"
   },
   {
     "Name": "Sculk Digger Hood",
@@ -5543,7 +5649,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Twisted Warden Blindfold"
   },
   {
     "Name": "Sculk Digger Leggings",
@@ -5602,7 +5709,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Sculk Digger Leggings"
   },
   {
     "Name": "Dauntless Horns",
@@ -5659,7 +5767,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Ram into your enemies with this horned helmet to knock them down a peg."
   },
   {
     "Name": "Dauntless Pauldrons",
@@ -5716,7 +5825,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Projectile Protection · Unique"
   },
   {
     "Name": "Dauntless Greaves",
@@ -5773,7 +5883,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Bounty Hunter Shinguards"
   },
   {
     "Name": "Dauntless Sabatons",
@@ -5830,7 +5941,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "For the dauntless warrior who has a lot of heart but needs a lot of souls."
   },
   {
     "Name": "Rimefrost Armor",
@@ -5914,7 +6026,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Elemental Protection · Unique"
   },
   {
     "Name": "Rimefrost Longjohns",
@@ -5998,7 +6111,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourFrosrimetSetUnique"
   },
   {
     "Name": "Rimefrost Plodders",
@@ -6082,7 +6196,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourFrosrimetSetUnique"
   },
   {
     "Name": "Rimefrost Icecap",
@@ -6166,7 +6281,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourFrosrimetSetUnique"
   },
   {
     "Name": "Scoundrel Sneakers",
@@ -6220,7 +6336,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "QuestArmourScampSetUnique"
   },
   {
     "Name": "Scoundrel Cowl",
@@ -6274,7 +6391,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "QuestArmourScampSetUnique"
   },
   {
     "Name": "Scoundrel Blazer",
@@ -6328,7 +6446,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "QuestArmourScampSetUnique"
   },
   {
     "Name": "Scoundrel Chaps",
@@ -6382,7 +6501,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "QuestArmourScampSetUnique"
   },
   {
     "Name": "Rover Sabatons",
@@ -6427,7 +6547,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "A pair of durable iron boots that keep you on your toes when in danger."
   },
   {
     "Name": "Rover Pauldrons",
@@ -6472,7 +6593,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "A protective chestplate with thick pauldrons to deflect ranged attacks."
   },
   {
     "Name": "Rover Visor",
@@ -6517,7 +6639,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "A reliable helmet with an enhanced visor for critical precision."
   },
   {
     "Name": "Rover Gaiters",
@@ -6562,7 +6685,8 @@
       "SW.EffectTemplate.RapidStrike.I",
       "SW.EffectTemplate.RapidStrike.II",
       "SW.EffectTemplate.RapidStrike.III"
-    ]
+    ],
+    "Description": "A pair of limber iron gaiters for extra attack momentum."
   },
   {
     "Name": "Twisted Warden Sneakers",
@@ -6637,7 +6761,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Twisted Warden Sneakers"
   },
   {
     "Name": "Twisted Warden Vest",
@@ -6712,7 +6837,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "QuestChestCavecrawlerUnique_01"
   },
   {
     "Name": "Twisted Warden Blindfold",
@@ -6787,7 +6913,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Twisted Warden Blindfold"
   },
   {
     "Name": "Twisted Warden Tights",
@@ -6862,7 +6989,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Twisted Warden Tights"
   },
   {
     "Name": "Sharpshooter Duster",
@@ -6913,7 +7041,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "A delicious-looking duster with stabilizing arm guards for powerful ranged attacks."
   },
   {
     "Name": "Sharpshooter Chaps",
@@ -6964,7 +7093,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "A pair of sharp leather chaps for fletching arrows in the wild."
   },
   {
     "Name": "Sharpshooter Spurs",
@@ -7015,7 +7145,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "A pair of spurred shoes with ankle space for extra arrows."
   },
   {
     "Name": "Sharpshooter Fedora",
@@ -7066,7 +7197,8 @@
       "SW.EffectTemplate.SpeedBoost.I",
       "SW.EffectTemplate.SpeedBoost.II",
       "SW.EffectTemplate.SpeedBoost.III"
-    ]
+    ],
+    "Description": "A flashy fedora with an attached monocle scope for aiming multiple arrows at once."
   },
   {
     "Name": "Protector Helmet",
@@ -7107,7 +7239,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "StalwartHelmet_Unique"
   },
   {
     "Name": "Protector Chestplate",
@@ -7148,7 +7281,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Passed down for generations to serve a chosen protector. A heavy burden!"
   },
   {
     "Name": "Protector Shinguards",
@@ -7189,7 +7323,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "StalwartLeggings_Unique"
   },
   {
     "Name": "Protector Boots",
@@ -7230,7 +7365,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "Passed down for generations to serve a chosen protector. Big shoes to fill!"
   },
   {
     "Name": "Humbler Antenna",
@@ -7287,7 +7423,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "QuestArmourStalwartSetUnique"
   },
   {
     "Name": "Humbler Carapace",
@@ -7344,7 +7481,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "QuestArmourStalwartSetUnique"
   },
   {
     "Name": "Humbler Greaves",
@@ -7401,7 +7539,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "QuestArmourStalwartSetUnique"
   },
   {
     "Name": "Humbler Tarsi",
@@ -7458,7 +7597,8 @@
       "SW.EffectTemplate.Thorns.I",
       "SW.EffectTemplate.Thorns.II",
       "SW.EffectTemplate.Thorns.III"
-    ]
+    ],
+    "Description": "QuestArmourStalwartSetUnique"
   },
   {
     "Name": "Packleader Paws",
@@ -7506,7 +7646,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "A pair of wolf fur boots with razor-sharp claws, perfect for fletching extra arrows."
   },
   {
     "Name": "Packleader Hide",
@@ -7554,7 +7695,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Lead with your heart and show your pack who they are fighting for."
   },
   {
     "Name": "Packleader Muzzle",
@@ -7602,7 +7744,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "See through the eyes of a wolf and spot enemies at far distances."
   },
   {
     "Name": "Packleader Fur Chaps",
@@ -7650,7 +7793,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Veterinarian · Unique"
   },
   {
     "Name": "Mystic Circlet",
@@ -7697,7 +7841,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "A Magician's circlet with an obsidian stone scavenged from a broken portal."
   },
   {
     "Name": "Mystic Robe",
@@ -7744,7 +7889,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "An Evoker&#039;s robe retailored to suit a far more handsome wearer."
   },
   {
     "Name": "Mystic Leggings",
@@ -7791,7 +7937,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "MysticLeggings_Unique"
   },
   {
     "Name": "Mystic Boots",
@@ -7838,7 +7985,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "An Evoker&#039;s boots repurposed for kicking Illager butt with an iron toe to boot."
   },
   {
     "Name": "Oracle Crown",
@@ -7901,7 +8049,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Electromancer · Unique"
   },
   {
     "Name": "Oracle Mantle",
@@ -7964,7 +8113,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourMysticSetUnique_01"
   },
   {
     "Name": "Oracle Tights",
@@ -8027,7 +8177,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourMysticSetUnique_01"
   },
   {
     "Name": "Oracle Sandals",
@@ -8090,7 +8241,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourMysticSetUnique_01"
   },
   {
     "Name": "Phantom Helmet",
@@ -8140,7 +8292,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "QuestArmourPhantomSet"
   },
   {
     "Name": "Phantom Chestplate",
@@ -8190,7 +8343,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "QuestArmourPhantomSet"
   },
   {
     "Name": "Phantom Pants",
@@ -8240,7 +8394,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "PhantomLeggings_Unique"
   },
   {
     "Name": "Phantom Boots",
@@ -8290,7 +8445,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "QuestArmourPhantomSet"
   },
   {
     "Name": "Treehugger Mask",
@@ -8331,7 +8487,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "HewnbarkHelmet_Unique"
   },
   {
     "Name": "Treehugger Chestplate",
@@ -8372,7 +8529,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Treehugger Chestplate"
   },
   {
     "Name": "Treehugger Leggings",
@@ -8413,7 +8571,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "HewnbarkLeggings_Unique"
   },
   {
     "Name": "Treehugger Clogs",
@@ -8454,7 +8613,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Woodsprite Root Boots"
   },
   {
     "Name": "Realmreacher Hat",
@@ -8516,7 +8676,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "TimewornHelmet_Unique"
   },
   {
     "Name": "Realmreacher Robe",
@@ -8578,7 +8739,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Soul Corruptor Duster"
   },
   {
     "Name": "Realmreacher Leggings",
@@ -8640,7 +8802,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Realmreacher Leggings"
   },
   {
     "Name": "Realmreacher Boots",
@@ -8702,7 +8865,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Soul Corruptor Sandals"
   },
   {
     "Name": "Beekeeper Veil",
@@ -8737,7 +8901,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Keeps enemies out of your face without compromising your vision."
   },
   {
     "Name": "Beekeeper Suit",
@@ -8772,7 +8937,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Shields you from the swarms as you reach for their golden treasures."
   },
   {
     "Name": "Beekeeper Leggings",
@@ -8807,7 +8973,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "As far as leggings go, these truly are the bee's knees."
   },
   {
     "Name": "Beekeeper Boots",
@@ -8842,7 +9009,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Adds a buzz to your step and a sting to your kicks."
   },
   {
     "Name": "Mushroom Cap",
@@ -8910,7 +9078,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "MushroomHelmet_Unique"
   },
   {
     "Name": "Mushroom Robe",
@@ -8978,7 +9147,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourMushroomSet"
   },
   {
     "Name": "Mushroom Leggings",
@@ -9046,7 +9216,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "MushroomLeggings_Unique"
   },
   {
     "Name": "Mushroom Boots",
@@ -9114,7 +9285,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourMushroomSet"
   },
   {
     "Name": "Disciple mask",
@@ -9161,7 +9333,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "DiscipleHelmet_Unique"
   },
   {
     "Name": "Disciple Robe",
@@ -9208,7 +9381,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A true warrior must cover their heart, or its beating will wake the Wardens."
   },
   {
     "Name": "Disciple Leggings",
@@ -9255,7 +9429,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "DiscipleLeggings_Unique"
   },
   {
     "Name": "Disciple Wraps",
@@ -9302,7 +9477,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A true warrior wears soundproof foot wraps to spare the ground from trembling."
   },
   {
     "Name": "Sifter Hood",
@@ -9364,7 +9540,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WellspringHelmet_Unique"
   },
   {
     "Name": "Sifter Robe",
@@ -9426,7 +9603,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WellspringChest_Unique"
   },
   {
     "Name": "Sifter Leggings",
@@ -9488,7 +9666,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WellspringLeggings_Unique"
   },
   {
     "Name": "Sifter Boots",
@@ -9550,7 +9729,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "WellspringBoots_Unique"
   },
   {
     "Name": "Redstone Helmet",
@@ -9618,7 +9798,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "RedstoneHelmet_Unique"
   },
   {
     "Name": "Redstone Chestplate",
@@ -9686,7 +9867,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Your victory is already set in redstone."
   },
   {
     "Name": "Redstone Shinguards",
@@ -9754,7 +9936,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "RedstoneLeggings_Unique"
   },
   {
     "Name": "Redstone Boots",
@@ -9822,7 +10005,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Cobbled from the rubble of a Redstone Monstrosity."
   },
   {
     "Name": "Sorcerer Hat",
@@ -9869,7 +10053,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "EvocationHelmet_Unique"
   },
   {
     "Name": "Sorcerer Robe",
@@ -9916,7 +10101,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "EvocationChest_Unique"
   },
   {
     "Name": "Sorcerer Leggings",
@@ -9963,7 +10149,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "EvocationLeggings_Unique"
   },
   {
     "Name": "Sorcerer Boots",
@@ -10010,7 +10197,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "EvocationBoots_Unique"
   },
   {
     "Name": "Dreamruler Crown",
@@ -10076,7 +10264,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A crown as soft as a pillow for tranquil dreams of soul gathering."
   },
   {
     "Name": "Dreamruler Cover",
@@ -10142,7 +10331,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A chestplate as comfy as a bedcover, helping you focus on your targets."
   },
   {
     "Name": "Dreamruler Pyjamas",
@@ -10208,7 +10398,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A pair of pyjama pants as light as shadows, helping you sneak through your enemy's nightmares."
   },
   {
     "Name": "Dreamruler Slippers",
@@ -10274,7 +10465,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A pair of slippers so cozy you'll roll out of bed and jump into battle!"
   },
   {
     "Name": "Woodsprite Crown",
@@ -10331,7 +10523,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "A dark oak mask crowned with enchanted flowers that grant natural resistance to your pets."
   },
   {
     "Name": "Woodsprite Barkpiece",
@@ -10388,7 +10581,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Constitution · Unique"
   },
   {
     "Name": "Woodsprite Trunks",
@@ -10445,7 +10639,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "A pair of thorned treetrunk leggings for prickly kicking back when under attack."
   },
   {
     "Name": "Woodsprite Root Boots",
@@ -10502,7 +10697,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Woodsprite Root Boots"
   },
   {
     "Name": "Soul Corruptor Mask",
@@ -10580,7 +10776,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Sharpshooter · Unique"
   },
   {
     "Name": "Soul Corruptor Duster",
@@ -10658,7 +10855,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Soul Corruptor Duster"
   },
   {
     "Name": "Soul Corruptor Sash",
@@ -10736,7 +10934,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Realmreacher Leggings"
   },
   {
     "Name": "Soul Corruptor Sandals",
@@ -10814,7 +11013,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Soul Corruptor Sandals"
   },
   {
     "Name": "Hivemind Hardhat",
@@ -10865,7 +11065,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "QuestArmourHoneySetUnique"
   },
   {
     "Name": "Hivemind Thorax",
@@ -10916,7 +11117,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "QuestArmourHoneySetUnique"
   },
   {
     "Name": "Hivemind Trousers",
@@ -10967,7 +11169,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "QuestArmourHoneySetUnique"
   },
   {
     "Name": "Hivemind Stingers",
@@ -11018,7 +11221,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "QuestArmourHoneySetUnique"
   },
   {
     "Name": "Fly Agaric Cap",
@@ -11102,7 +11306,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "An enchanted mushroom cap for poisoned punches and toxic terror."
   },
   {
     "Name": "Fly Agaric Coat",
@@ -11186,7 +11391,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Regeneration · Unique"
   },
   {
     "Name": "Fly Agaric Trousers",
@@ -11270,7 +11476,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Don't eat the trousers! They are poisonous to humans but grant extra strength to your pets."
   },
   {
     "Name": "Fly Agaric Galoshes",
@@ -11354,7 +11561,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Give your pet companions a nibble of these galoshes and it will grant them natural resistance."
   },
   {
     "Name": "Sage Headband",
@@ -11417,7 +11625,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "Projectile Protection · Unique"
   },
   {
     "Name": "Sage Tunic",
@@ -11480,7 +11689,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "Bounty Hunter · Unique"
   },
   {
     "Name": "Sage Belt",
@@ -11543,7 +11753,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A warrior worthy of this belt will roll a hundred times without getting dizzy."
   },
   {
     "Name": "Sage Wraps",
@@ -11606,7 +11817,8 @@
       "SW.EffectTemplate.SwiftSneak.I",
       "SW.EffectTemplate.SwiftSneak.II",
       "SW.EffectTemplate.SwiftSneak.III"
-    ]
+    ],
+    "Description": "A warrior worthy of these foot wraps will strike as swiftly as an axolotl."
   },
   {
     "Name": "Mad Sifter Mask",
@@ -11684,7 +11896,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "A tainted mask fashioned like an enraged Sifter, designed to scare your enemies to their core."
   },
   {
     "Name": "Mad Sifter Vest",
@@ -11762,7 +11975,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "An enchanted vest fashioned like an enraged Sifter that grants enraged power to all artifacts."
   },
   {
     "Name": "Mad Sifter Slacks",
@@ -11840,7 +12054,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "A pair of slacks fashioned like Sifter legs, imbued with boosting powers."
   },
   {
     "Name": "Mad Sifter Paws",
@@ -11918,7 +12133,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "A pair of boots fashioned like Sifter paws, just as quick to deflect ranged attacks."
   },
   {
     "Name": "Monstrosity Horns",
@@ -12002,7 +12218,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourRedstoneUnique_01"
   },
   {
     "Name": "Monstrosity Armor",
@@ -12086,7 +12303,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourRedstoneUnique_01"
   },
   {
     "Name": "Monstrosity Greaves",
@@ -12170,7 +12388,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Elemental Protection · Unique"
   },
   {
     "Name": "Monstrosity Stompers",
@@ -12254,7 +12473,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArmourRedstoneUnique_01"
   },
   {
     "Name": "Alchemist Top Hat",
@@ -12317,7 +12537,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Totem Radius · Unique"
   },
   {
     "Name": "Alchemist Overcoat",
@@ -12380,7 +12601,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "An alchemist's old overcoat that grants extra power to all artifacts."
   },
   {
     "Name": "Alchemist Trousers",
@@ -12443,7 +12665,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "An alchemist's old trousers that generate health from all artifacts."
   },
   {
     "Name": "Alchemist Loafers",
@@ -12506,7 +12729,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "An alchemist's old loafers with stacked soles AND stacked with souls!"
   },
   {
     "Name": "Sculker Mask",
@@ -12571,7 +12795,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "ScavengerHelmet_Unique"
   },
   {
     "Name": "Sculker Robe",
@@ -12636,7 +12861,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "ScavengerChest_Unique"
   },
   {
     "Name": "Sculker Slacks",
@@ -12701,7 +12927,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "ScavengerLeggings_Unique"
   },
   {
     "Name": "Sculker Boots",
@@ -12766,7 +12993,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "ScavengerBoots_Unique"
   },
   {
     "Name": "Monarch Crown",
@@ -12847,7 +13075,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "A worthy crown of ichor crust that will have your enemies throw gifts at your feet."
   },
   {
     "Name": "Monarch Mantle",
@@ -12928,7 +13157,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "A majestic mantle worthy of a Monarch, with extra resilience against the elements."
   },
   {
     "Name": "Monarch Sash",
@@ -13009,7 +13239,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "A noble sash made from Monarch plume, with extra space for hoarding souls."
   },
   {
     "Name": "Monarch Talons",
@@ -13090,7 +13321,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "A pair of regal boots with sharp talons. Be the top of the ecosystem in every dimension."
   },
   {
     "Name": "Humbling Horn",
@@ -13143,7 +13375,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "QuestArtifactsCA09_BR"
   },
   {
     "Name": "Totem of Regeneration",
@@ -13196,7 +13429,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Totem of Regeneration"
   },
   {
     "Name": "Soul Harvester",
@@ -13234,7 +13468,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "SoulHarvester_Level_1"
   },
   {
     "Name": "Picnic Basket",
@@ -13281,7 +13516,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Great day for a picnic! Share healthy treats with your friends. Hangry friends make for bad allies in battle."
   },
   {
     "Name": "Corrupted Beacon",
@@ -13319,7 +13555,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Turns souls into raw power as you fire it in short bursts or in one long, soul-draining blast of ultimate power."
   },
   {
     "Name": "Corrupted Seeds",
@@ -13357,7 +13594,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactCorruptedSeed"
   },
   {
     "Name": "Death Cap Mushroom",
@@ -13395,7 +13633,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Eaten by daring warriors before battle to enter a berserker state, increasing both movement and attack speed."
   },
   {
     "Name": "Totem of Shielding",
@@ -13442,7 +13681,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "This solid gold totem radiates a protective barrier, shielding all inside it from projectiles."
   },
   {
     "Name": "Totem of Casting",
@@ -13489,7 +13729,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Place the totem on the ground to spread artificing energy to your allies, reducing their artifact cooldown time."
   },
   {
     "Name": "Ender Fog",
@@ -13527,7 +13768,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "The Ender Fog smoke bomb lets you sneak up on enemies, cloaked by shadows."
   },
   {
     "Name": "Redstone Mine Launcher",
@@ -13565,7 +13807,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Redstone Mine Launcher"
   },
   {
     "Name": "Witch Brew",
@@ -13603,7 +13846,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactWitchesBrew"
   },
   {
     "Name": "Pouch of Ember",
@@ -13641,7 +13885,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactsCA10_BR_B"
   },
   {
     "Name": "Pouch of Frost",
@@ -13679,7 +13924,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Throw it on the ground to spread a blistering blizzard around yourself. One of the coolest artifacts there is!"
   },
   {
     "Name": "Pouch of Poison",
@@ -13717,7 +13963,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Throw it on the ground to spread toxic terror around yourself. Don't worry, this mob repellent is completely eco-friendly."
   },
   {
     "Name": "Pouch of Thunder",
@@ -13755,7 +14002,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Throw it on the ground to spread conductive chaos around yourself. It's a real power trip!"
   },
   {
     "Name": "Creeper Candle",
@@ -13793,7 +14041,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactCreeperCandle"
   },
   {
     "Name": "Lightning Rod",
@@ -13831,7 +14080,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Channels soul-powered lightning, zapping your enemies silly for as long as you hold it."
   },
   {
     "Name": "Fighting Fungus",
@@ -13869,7 +14119,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Eaten by daring warriors before battle, unleashing their rage and increasing their attack speed."
   },
   {
     "Name": "Tempo Truffle",
@@ -13907,7 +14158,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Eaten by daring warriors before battle, sending them charging into battle with increased movement speed."
   },
   {
     "Name": "Warrior Drums",
@@ -13945,7 +14197,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactsCA09_BR"
   },
   {
     "Name": "Echo Ocarina",
@@ -13983,7 +14236,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactCarapaceOcarina"
   },
   {
     "Name": "Fighter's Flute",
@@ -14033,7 +14287,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "QuestArtifactsCA09_BR"
   },
   {
     "Name": "Grindstone",
@@ -14071,7 +14326,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Sharpen your weapons on the grindstone to make enemies feel the sting of your steel and cause extra damage."
   },
   {
     "Name": "Turtle Master's Mandolin",
@@ -14109,7 +14365,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Turtle Master&#039;s Mandolin"
   },
   {
     "Name": "Warding Chimes",
@@ -14147,7 +14404,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Chimes crafted from humbler husk. Their music turns your skin as thick as carapace."
   },
   {
     "Name": "Battle Banner",
@@ -14200,7 +14458,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "Raise the banner of war and grant strength to you and all nearby allies."
   },
   {
     "Name": "Honey Dipper",
@@ -14250,7 +14509,8 @@
       "SW.EffectTemplate.Vivify.I",
       "SW.EffectTemplate.Vivify.II",
       "SW.EffectTemplate.Vivify.III"
-    ]
+    ],
+    "Description": "QuestArtifactHoneypot"
   },
   {
     "Name": "Cinder Scepter",
@@ -14326,7 +14586,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Blasts a soul-powered blizzard at your enemies and creates a cozy winter wonderland."
   },
   {
     "Name": "Blaze Bangle",
@@ -14364,7 +14625,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactsCA10_BR_B"
   },
   {
     "Name": "Blizzard Bangle",
@@ -14402,7 +14664,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Imbues your attacks with the power of freezing blizzards and looks really cool on your wrist!"
   },
   {
     "Name": "Blight Bangle",
@@ -14440,7 +14703,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Imbues your attacks with poisonous power and looks stunning on your wrist!"
   },
   {
     "Name": "Electric Bangle",
@@ -14478,7 +14742,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Imbues your attacks with the power of crackling electricity and looks striking on your wrist!"
   },
   {
     "Name": "Powershaker",
@@ -14516,7 +14781,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "Let's shake things up! The Powershaker is a smashing good time and will blow your enemies' minds!"
   },
   {
     "Name": "Firework Arrow",
@@ -14572,7 +14838,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "TNT 的爆炸威力加上箭矢的射速，还能出什么岔子呢？"
   },
   {
     "Name": "Flaming Quiver",
@@ -14628,7 +14895,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "QuestArtifactsCA10_BR_B"
   },
   {
     "Name": "Venomous Quiver",
@@ -14684,7 +14952,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "A quiver soaked in venom for that extra sting when your arrows bite."
   },
   {
     "Name": "Freezing Quiver",
@@ -14740,7 +15009,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "These arrows will have your enemies quivering from both fear and cold."
   },
   {
     "Name": "Conductive Quiver",
@@ -14796,7 +15066,8 @@
       "SW.EffectTemplate.Vestige.I",
       "SW.EffectTemplate.Vestige.II",
       "SW.EffectTemplate.Vestige.III"
-    ]
+    ],
+    "Description": "These arrows will strike your enemies like lightning from the skies."
   },
   {
     "Name": "Amethyst Lens",
@@ -14871,7 +15142,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanRangedBoost"
   },
   {
     "Name": "Sigil of Beeswax",
@@ -14946,7 +15218,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanHealthboost"
   },
   {
     "Name": "Ocelot's Paw",
@@ -15021,7 +15294,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanPlummeting"
   },
   {
     "Name": "Fist of Iron",
@@ -15096,7 +15370,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanBrawling"
   },
   {
     "Name": "Golem Kit",
@@ -15127,7 +15402,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanIronGolem"
   },
   {
     "Name": "Wonderful Wheat",
@@ -15158,7 +15434,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "Summons a woolly wanderer to watch over you in battle!"
   },
   {
     "Name": "Tasty Bone",
@@ -15189,7 +15466,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "Summons a furry friend to fight by your side!"
   },
   {
     "Name": "Twisted Tooth",
@@ -15264,7 +15542,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanSoulGather"
   },
   {
     "Name": "Glowstone Flask",
@@ -15339,7 +15618,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "TalismansChest_PotionCooldown"
   },
   {
     "Name": "Healing Heart",
@@ -15414,7 +15694,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "Healing Talisman Description"
   },
   {
     "Name": "Medallion of Momentum",
@@ -15489,7 +15770,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "Medallion of Momentum"
   },
   {
     "Name": "Lucky Clover",
@@ -15564,7 +15846,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanDoubleDrop"
   },
   {
     "Name": "Emerald of Good Fortune",
@@ -15639,7 +15922,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "Emerald of Good Fortune"
   },
   {
     "Name": "Looter's Charm",
@@ -15714,7 +15998,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanDropChance"
   },
   {
     "Name": "Essence of Efficiency",
@@ -15789,7 +16074,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "Essence of Efficiency"
   },
   {
     "Name": "Armadillo Amulet",
@@ -15864,7 +16150,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanRollingCooldown"
   },
   {
     "Name": "Soul Chip",
@@ -15939,7 +16226,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanSoulCapacity"
   },
   {
     "Name": "Twig of Dark Oak",
@@ -16014,7 +16302,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanAmmoCapacity"
   },
   {
     "Name": "Sculk Badge",
@@ -16089,7 +16378,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanStatusBuff"
   },
   {
     "Name": "The Eye of Experience",
@@ -16164,7 +16454,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "The Eye of Experience"
   },
   {
     "Name": "Tendrils of the Sprout",
@@ -16239,7 +16530,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "Tendrils of the Sprout"
   },
   {
     "Name": "Prickle's Mark",
@@ -16270,7 +16562,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanPukeyDiva"
   },
   {
     "Name": "Wobblestone",
@@ -16301,7 +16594,8 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "QuestTalismanPogoFrog"
   },
   {
     "Name": "Thrifty Pendant",
@@ -16376,6 +16670,7 @@
         "LevelTags": []
       }
     ],
-    "Pool": []
+    "Pool": [],
+    "Description": "TalismansChest_FiringEmeralds"
   }
 ]

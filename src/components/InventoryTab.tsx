@@ -309,6 +309,11 @@ function ItemDetailPanel({ entry, rarityInfo, showAdvanced, onToggleAdvanced, on
           <div style={{ fontFamily: 'VT323, monospace', fontSize: '22px', color: 'var(--text-gold)', letterSpacing: 1 }}>{displayName}</div>
           <div style={{ color: rarityInfo.glowColor, fontSize: 12 }}>{rarityInfo.label}</div>
           <div style={{ color: 'var(--text-muted)', fontSize: 11 }}>{gearEntry?.Category} • {entry.ItemData.TypeTag}</div>
+        {gearEntry?.Description && (
+            <div style={{ marginTop: 8, fontSize: 13, color: '#e8e8e8', fontStyle: 'italic', opacity: 0.85, lineHeight: 1.4, whiteSpace: 'pre-wrap' }}>
+              "{gearEntry.Description}"
+            </div>
+          )}
         </div>
         <div className="flex gap-1 flex-shrink-0">
           <button className="mc-btn mc-btn-icon" onClick={onClone} data-tooltip="Clone Item"><Copy size={14} /></button>

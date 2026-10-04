@@ -11,6 +11,7 @@ export interface GearEntry {
   Tag: string;
   Category: string;
   Unique: boolean;
+  Description?: string;
   Icon: string;
   IconUrl: string;
   Source: string;
